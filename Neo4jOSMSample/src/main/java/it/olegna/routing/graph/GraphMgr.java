@@ -163,7 +163,7 @@ public class GraphMgr {
 			logger.info("Searching closest point for the following coordinates: "+coord+" x: "+coord.x+" y: "+coord.y);
 			StopWatch sw = new StopWatch();
 			sw.start();
-			List<SpatialDatabaseRecord> results = GeoPipeline.startNearestNeighborLatLonSearch(el, coord, distKm).toSpatialDatabaseRecordList();
+			List<SpatialDatabaseRecord> results = GeoPipeline.startNearestNeighborLatLonSearch(el, coord, 1).toSpatialDatabaseRecordList();
 			sw.stop();
 			long pointsNumber = results != null ? results.isEmpty() ? 0 : results.size() : 0;
 			if (logger.isInfoEnabled()) {

@@ -1,4 +1,4 @@
-package it.eng.tz.pinf.graph.creator.exception;
+package it.olegan.routing.exception;
 
 public class GraphCreatorException extends Exception {
 

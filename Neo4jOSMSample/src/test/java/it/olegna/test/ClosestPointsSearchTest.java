@@ -39,7 +39,8 @@ public class ClosestPointsSearchTest {
 				else
 					logger.info("Node ID: "+node.getId()+" no X and Y");
 			}
-			Coordinate coord = new Coordinate(9.18891398507115, 45.4653788);
+//			Coordinate coord = new Coordinate(9.18891398507115, 45.4653788);
+			Coordinate coord = new Coordinate(9.1892546, 45.465609);
 			List<SpatialDatabaseRecord> records = graphMgr.getClosestNode(coord);
 			if( records != null && !records.isEmpty() ){
 
