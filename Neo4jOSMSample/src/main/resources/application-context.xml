@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd  
+	 http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd 
+	 http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+	<context:property-placeholder location="classpath:configuration.properties"
+		ignore-resource-not-found="true" ignore-unresolvable="true" />
+	<context:component-scan base-package="it.eng.tz.pinf, it.eng.web.model.router" />
+
+	<bean id="neo4jDbService" class="it.olegna.routing.graph.GraphMgr" 
+	    init-method="initialize" destroy-method="shutdown">
+		<property name="neo4jPath" value="${pinf.neo4j.db.path}" />
+		<property name="nodestoreMappedMemorySize" value="${nodestore_mapped_memory_size}" />
+		<property name="relationshipstoreMappedMemorySize" value="${relationshipstore_mapped_memory_size}" />
+		<property name="nodestorePropertystoreMappedMemorySize"
+			value="${nodestore_propertystore_mapped_memory_size}" />
+		<property name="stringsMappedMemorySize" value="${strings_mapped_memory_size}" />
+		<property name="arraysMappedMemorySize" value="${arrays_mapped_memory_size}" />
+		<property name="allowStoreUpgrade" value="${allow_store_upgrade}" />
+		<property name="cypherParserVersion" value="${cypher_parser_version}" />
+		<property name="keepLogicalLogs" value="${keep_logical_logs}" />
+		<property name="nodeAutoIndexing" value="${node_auto_indexing}" />
+		<property name="nodeKeysIndexable" value="${node_keys_indexable}" />
+		<property name="relationshipAutoIndexing" value="${relationship_auto_indexing}" />
+		<property name="relationshipKeysIndexable" value="${relationship_keys_indexable}" />
+		<property name="maxDistance" value="${pinf.max.search.distance}" />
+	</bean>
+</beans>

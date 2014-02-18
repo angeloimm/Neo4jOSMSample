@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.1 (29681 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.4650800" minlon="9.1884500" maxlat="45.4666800" maxlon="9.1893700"/>
+ <node id="114317270" visible="true" version="5" changeset="8084521" timestamp="2011-05-08T16:42:02Z" user="FedericoCozzi" uid="80088" lat="45.4718232" lon="9.1946575"/>
+ <node id="206143832" visible="true" version="8" changeset="11609695" timestamp="2012-05-15T22:15:33Z" user="kaitu" uid="69717" lat="45.4665421" lon="9.1900205"/>
+ <node id="996571880" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4275622" lon="9.2526941"/>
+ <node id="996572296" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:49Z" user="Cristian1989" uid="429539" lat="45.4279645" lon="9.2542264"/>
+ <node id="249159341" visible="true" version="5" changeset="17259236" timestamp="2013-08-07T20:42:15Z" user="AnyFile" uid="113669" lat="45.4649305" lon="9.1892538"/>
+ <node id="251289220" visible="true" version="6" changeset="10353311" timestamp="2012-01-10T17:48:16Z" user="Cristian1989" uid="429539" lat="45.4674538" lon="9.1900176"/>
+ <node id="251289421" visible="true" version="5" changeset="10353311" timestamp="2012-01-10T17:48:17Z" user="Cristian1989" uid="429539" lat="45.4669512" lon="9.1894087">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="251291708" visible="true" version="5" changeset="8084521" timestamp="2011-05-08T16:42:02Z" user="FedericoCozzi" uid="80088" lat="45.4719272" lon="9.1947701"/>
+ <node id="998638138" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4642892" lon="9.1888111">
+  <tag k="ref" v="Linea 3 Nº 199"/>
+ </node>
+ <node id="998638094" visible="true" version="4" changeset="10075898" timestamp="2011-12-09T19:55:07Z" user="Cristian1989" uid="429539" lat="45.4607297" lon="9.1885466">
+  <tag k="source" v="guesstimate"/>
+ </node>
+ <node id="419123693" visible="true" version="2" changeset="1495422" timestamp="2009-06-12T12:10:30Z" user="Niouta" uid="45684" lat="45.4646740" lon="9.1885504"/>
+ <node id="680094621" visible="true" version="3" changeset="8026555" timestamp="2011-05-01T22:02:40Z" user="FedericoCozzi" uid="80088" lat="45.4667721" lon="9.1885552"/>
+ <node id="1239252143" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:02:40Z" user="FedericoCozzi" uid="80088" lat="45.4665799" lon="9.1888859"/>
+ <node id="1239252140" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:02:40Z" user="FedericoCozzi" uid="80088" lat="45.4667744" lon="9.1885859"/>
+ <node id="1239252145" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:03Z" user="FedericoCozzi" uid="80088" lat="45.4665458" lon="9.1888675"/>
+ <node id="1239252147" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:03Z" user="FedericoCozzi" uid="80088" lat="45.4667435" lon="9.1885645"/>
+ <node id="568389965" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:02Z" user="FedericoCozzi" uid="80088" lat="45.4662070" lon="9.1877670"/>
+ <node id="568389980" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4665166" lon="9.1886453"/>
+ <node id="568389981" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4663874" lon="9.1883447"/>
+ <node id="568389982" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4663180" lon="9.1884533"/>
+ <node id="568389983" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4663684" lon="9.1885173"/>
+ <node id="568389984" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4663956" lon="9.1884630"/>
+ <node id="568389985" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4663697" lon="9.1884281"/>
+ <node id="568389986" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4664065" lon="9.1883718"/>
+ <node id="568389990" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4665887" lon="9.1885425"/>
+ <node id="568389992" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4666248" lon="9.1885939"/>
+ <node id="568389996" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:32Z" user="ilrobi" uid="22110" lat="45.4665527" lon="9.1886967"/>
+ <node id="568390074" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:02:39Z" user="FedericoCozzi" uid="80088" lat="45.4669907" lon="9.1892637"/>
+ <node id="568390073" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:02:39Z" user="FedericoCozzi" uid="80088" lat="45.4671153" lon="9.1890134"/>
+ <node id="568392104" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:00Z" user="FedericoCozzi" uid="80088" lat="45.4660146" lon="9.1888019"/>
+ <node id="568392105" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4659721" lon="9.1888771"/>
+ <node id="568392106" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4660686" lon="9.1888641"/>
+ <node id="568392082" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4655673" lon="9.1891930"/>
+ <node id="568392087" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4653213" lon="9.1890268"/>
+ <node id="568392100" visible="true" version="2" changeset="6058394" timestamp="2010-10-16T15:07:24Z" user="ilrobi" uid="22110" lat="45.4657591" lon="9.1889907"/>
+ <node id="661556431" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4652838" lon="9.1886145">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Duomo"/>
+  <tag k="route_ref" v="200"/>
+  <tag k="towards" v="Maciachini"/>
+ </node>
+ <node id="680094627" visible="true" version="4" changeset="17141705" timestamp="2013-07-29T16:36:44Z" user="AnyFile" uid="113669" lat="45.4663415" lon="9.1889544">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="20121"/>
+  <tag k="addr:street" v="Via Santa Margherita"/>
+  <tag k="amenity" v="ice_cream"/>
+  <tag k="name" v="Grom"/>
+  <tag k="ref:vatin" v="IT08654840019"/>
+ </node>
+ <node id="951637066" visible="true" version="3" changeset="11837740" timestamp="2012-06-08T18:06:18Z" user="kaitu" uid="69717" lat="45.4656139" lon="9.1906971"/>
+ <node id="951637173" visible="true" version="2" changeset="11740494" timestamp="2012-05-29T17:46:03Z" user="kaitu" uid="69717" lat="45.4655615" lon="9.1908250"/>
+ <node id="951637180" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647918" lon="9.1897927"/>
+ <node id="951637193" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647738" lon="9.1903894"/>
+ <node id="568392102" visible="true" version="2" changeset="6058394" timestamp="2010-10-16T15:07:30Z" user="ilrobi" uid="22110" lat="45.4658050" lon="9.1888237"/>
+ <node id="314984571" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4656090" lon="9.1892546"/>
+ <node id="951637254" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4648491" lon="9.1913400"/>
+ <node id="951637264" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4647724" lon="9.1896270"/>
+ <node id="568392099" visible="true" version="2" changeset="6058394" timestamp="2010-10-16T15:07:34Z" user="ilrobi" uid="22110" lat="45.4657557" lon="9.1888258"/>
+ <node id="568392103" visible="true" version="2" changeset="6058394" timestamp="2010-10-16T15:07:44Z" user="ilrobi" uid="22110" lat="45.4658084" lon="9.1889886"/>
+ <node id="568392109" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4661382" lon="9.1889192"/>
+ <node id="568392114" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4662540" lon="9.1890945"/>
+ <node id="568392089" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4654402" lon="9.1890263"/>
+ <node id="568392081" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4651946" lon="9.1886290"/>
+ <node id="568392085" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4653214" lon="9.1888112"/>
+ <node id="568392088" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4654404" lon="9.1888115"/>
+ <node id="566336047" visible="true" version="4" changeset="17259236" timestamp="2013-08-07T20:42:15Z" user="AnyFile" uid="113669" lat="45.4649238" lon="9.1907559"/>
+ <node id="973632523" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:37Z" user="FedericoCozzi" uid="80088" lat="45.4651955" lon="9.1880305"/>
+ <node id="251293096" visible="true" version="7" changeset="8068919" timestamp="2011-05-06T21:12:51Z" user="FedericoCozzi" uid="80088" lat="45.4656146" lon="9.1885366"/>
+ <node id="568392091" visible="true" version="5" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4656724" lon="9.1886510"/>
+ <node id="973632493" visible="true" version="3" changeset="13495453" timestamp="2012-10-14T17:01:32Z" user="AnyFile" uid="113669" lat="45.4656102" lon="9.1890988">
+  <tag k="barrier" v="bollard"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="114317254" visible="true" version="6" changeset="9647310" timestamp="2011-10-24T20:42:24Z" user="Cristian1989" uid="429539" lat="45.4707528" lon="9.1935061"/>
+ <node id="249156830" visible="true" version="5" changeset="8026555" timestamp="2011-05-01T22:02:37Z" user="FedericoCozzi" uid="80088" lat="45.4664201" lon="9.1892707"/>
+ <node id="249157557" visible="true" version="4" changeset="8209642" timestamp="2011-05-21T19:26:02Z" user="FedericoCozzi" uid="80088" lat="45.4664606" lon="9.1892405"/>
+ <node id="973632524" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:37Z" user="FedericoCozzi" uid="80088" lat="45.4655499" lon="9.1881704"/>
+ <node id="715904514" visible="true" version="3" changeset="8026555" timestamp="2011-05-01T22:06:38Z" user="FedericoCozzi" uid="80088" lat="45.4649516" lon="9.1885434"/>
+ <node id="973632505" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:38Z" user="FedericoCozzi" uid="80088" lat="45.4655537" lon="9.1884509"/>
+ <node id="973632508" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:38Z" user="FedericoCozzi" uid="80088" lat="45.4650463" lon="9.1884369"/>
+ <node id="973632512" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:38Z" user="FedericoCozzi" uid="80088" lat="45.4651779" lon="9.1880078"/>
+ <node id="973632516" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:38Z" user="FedericoCozzi" uid="80088" lat="45.4656817" lon="9.1885365"/>
+ <node id="973632518" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:39Z" user="FedericoCozzi" uid="80088" lat="45.4651390" lon="9.1881658"/>
+ <node id="973632519" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:39Z" user="FedericoCozzi" uid="80088" lat="45.4652557" lon="9.1878838"/>
+ <node id="973632491" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:39Z" user="FedericoCozzi" uid="80088" lat="45.4652357" lon="9.1878821"/>
+ <node id="973632496" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:39Z" user="FedericoCozzi" uid="80088" lat="45.4650506" lon="9.1883530"/>
+ <node id="973632502" visible="true" version="2" changeset="8026555" timestamp="2011-05-01T22:06:39Z" user="FedericoCozzi" uid="80088" lat="45.4651270" lon="9.1881608"/>
+ <node id="249159397" visible="true" version="8" changeset="8068919" timestamp="2011-05-06T21:32:02Z" user="FedericoCozzi" uid="80088" lat="45.4651429" lon="9.1885409"/>
+ <node id="1272557451" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:49Z" user="Cristian1989" uid="429539" lat="45.4572655" lon="9.1941665">
+  <tag k="ref" v="Linea 3 Nº 189"/>
+ </node>
+ <node id="1272557531" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4560417" lon="9.1957692">
+  <tag k="ref" v="Linea 3 Nº 185"/>
+ </node>
+ <node id="1272557820" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4468155" lon="9.2108306">
+  <tag k="ref" v="Linea 3 Nº 171"/>
+ </node>
+ <node id="1273580572" visible="true" version="1" changeset="8061117" timestamp="2011-05-05T21:09:59Z" user="FedericoCozzi" uid="80088" lat="45.4664516" lon="9.1890467">
+  <tag k="amenity" v="bank"/>
+  <tag k="name" v="Bank of China"/>
+ </node>
+ <node id="568392107" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4660261" lon="9.1889392"/>
+ <node id="568392110" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4661042" lon="9.1889822"/>
+ <node id="568392111" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4661559" lon="9.1889387"/>
+ <node id="568392113" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4661219" lon="9.1890017"/>
+ <node id="568392116" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4661979" lon="9.1890363"/>
+ <node id="568392117" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:01Z" user="FedericoCozzi" uid="80088" lat="45.4662192" lon="9.1889945"/>
+ <node id="568392120" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:02Z" user="FedericoCozzi" uid="80088" lat="45.4662753" lon="9.1890526"/>
+ <node id="568389966" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:02Z" user="FedericoCozzi" uid="80088" lat="45.4659085" lon="9.1882794"/>
+ <node id="568392119" visible="true" version="4" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4664294" lon="9.1892032"/>
+ <node id="568392118" visible="true" version="4" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4665037" lon="9.1890327"/>
+ <node id="568392094" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:03Z" user="FedericoCozzi" uid="80088" lat="45.4660746" lon="9.1886719"/>
+ <node id="568392095" visible="true" version="3" changeset="8061117" timestamp="2011-05-05T21:10:03Z" user="FedericoCozzi" uid="80088" lat="45.4661137" lon="9.1886889"/>
+ <node id="568392097" visible="true" version="4" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4656689" lon="9.1891973"/>
+ <node id="1274837207" visible="true" version="1" changeset="8068919" timestamp="2011-05-06T21:12:49Z" user="FedericoCozzi" uid="80088" lat="45.4659761" lon="9.1886549"/>
+ <node id="1274837211" visible="true" version="1" changeset="8068919" timestamp="2011-05-06T21:12:49Z" user="FedericoCozzi" uid="80088" lat="45.4657216" lon="9.1891246">
+  <tag k="amenity" v="bank"/>
+  <tag k="name" v="ICBC"/>
+ </node>
+ <node id="1274837213" visible="true" version="1" changeset="8068919" timestamp="2011-05-06T21:12:49Z" user="FedericoCozzi" uid="80088" lat="45.4661844" lon="9.1887420"/>
+ <node id="206143856" visible="true" version="4" changeset="8068919" timestamp="2011-05-06T21:12:50Z" user="FedericoCozzi" uid="80088" lat="45.4656090" lon="9.1893203"/>
+ <node id="249156831" visible="true" version="10" changeset="8068919" timestamp="2011-05-06T21:12:50Z" user="FedericoCozzi" uid="80088" lat="45.4651406" lon="9.1892536"/>
+ <node id="951637202" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4649302" lon="9.1893156"/>
+ <node id="951637096" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647719" lon="9.1913408"/>
+ <node id="951637127" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647512" lon="9.1902211"/>
+ <node id="951637155" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647768" lon="9.1886100"/>
+ <node id="951637162" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4649307" lon="9.1891981"/>
+ <node id="951637132" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:52Z" user="FedericoCozzi" uid="80088" lat="45.4647540" lon="9.1897943"/>
+ <node id="951637102" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4651059" lon="9.1891988"/>
+ <node id="951637170" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4649251" lon="9.1908169"/>
+ <node id="951637221" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4647901" lon="9.1896225"/>
+ <node id="951637231" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4647890" lon="9.1903884"/>
+ <node id="951637277" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:53Z" user="FedericoCozzi" uid="80088" lat="45.4651089" lon="9.1886074"/>
+ <node id="951637288" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4647888" lon="9.1902239"/>
+ <node id="951637112" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4664458" lon="9.1893325"/>
+ <node id="568392079" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4655674" lon="9.1886339"/>
+ <node id="951637115" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:54Z" user="FedericoCozzi" uid="80088" lat="45.4649226" lon="9.1906968"/>
+ <node id="568392084" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:55Z" user="FedericoCozzi" uid="80088" lat="45.4651902" lon="9.1892001"/>
+ <node id="951637164" visible="true" version="3" changeset="8193997" timestamp="2011-05-19T22:02:17Z" user="FedericoCozzi" uid="80088" lat="45.4665912" lon="9.1891213"/>
+ <node id="499417636" visible="true" version="3" changeset="9647310" timestamp="2011-10-24T20:42:24Z" user="Cristian1989" uid="429539" lat="45.4720682" lon="9.1949132"/>
+ <node id="340061063" visible="true" version="6" changeset="19506334" timestamp="2013-12-17T21:44:13Z" user="AnyFile" uid="113669" lat="45.4402009" lon="9.2239033">
+  <tag k="name" v="Corvetto"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Corvetto (metropolitana di Milano)"/>
+ </node>
+ <node id="1477601540" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4287423" lon="9.2494108"/>
+ <node id="1477892253" visible="true" version="3" changeset="10075898" timestamp="2011-12-09T19:55:06Z" user="Cristian1989" uid="429539" lat="45.4604262" lon="9.1887244"/>
+ <node id="1479463479" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:21Z" user="Cristian1989" uid="429539" lat="45.4697627" lon="9.1924470"/>
+ <node id="1479463483" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:21Z" user="Cristian1989" uid="429539" lat="45.4684471" lon="9.1910493"/>
+ <node id="1479463487" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:21Z" user="Cristian1989" uid="429539" lat="45.4697498" lon="9.1924748"/>
+ <node id="1479463491" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:21Z" user="Cristian1989" uid="429539" lat="45.4719036" lon="9.1947064"/>
+ <node id="1479463493" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:21Z" user="Cristian1989" uid="429539" lat="45.4699757" lon="9.1926827"/>
+ <node id="1479463495" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4690704" lon="9.1916651"/>
+ <node id="1479463497" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4684352" lon="9.1910699"/>
+ <node id="1479463503" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4700719" lon="9.1927666"/>
+ <node id="1479463506" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4701261" lon="9.1928678"/>
+ <node id="1479463508" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4678887" lon="9.1904592"/>
+ <node id="1479463512" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4720605" lon="9.1948246"/>
+ <node id="1479463514" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4674805" lon="9.1900193"/>
+ <node id="1479463515" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4676470" lon="9.1902017"/>
+ <node id="1479463516" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4704630" lon="9.1932092"/>
+ <node id="1479463518" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:22Z" user="Cristian1989" uid="429539" lat="45.4719582" lon="9.1947600"/>
+ <node id="1479463529" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4699522" lon="9.1927068"/>
+ <node id="1479463530" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4720015" lon="9.1947895"/>
+ <node id="1479463533" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4707673" lon="9.1934761"/>
+ <node id="1479463538" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4690587" lon="9.1916849"/>
+ <node id="1479463543" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4681332" lon="9.1907676"/>
+ <node id="1479463547" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4716695" lon="9.1944408"/>
+ <node id="1479463548" visible="true" version="1" changeset="9647310" timestamp="2011-10-24T20:42:23Z" user="Cristian1989" uid="429539" lat="45.4682432" lon="9.1908373"/>
+ <node id="1479463481" visible="true" version="2" changeset="12646224" timestamp="2012-08-07T14:37:32Z" user="AnyFile" uid="113669" lat="45.4721002" lon="9.1948597"/>
+ <node id="1490231708" visible="true" version="1" changeset="9729170" timestamp="2011-11-03T10:36:45Z" user="Cristian1989" uid="429539" lat="45.4276029" lon="9.2531906"/>
+ <node id="1490231710" visible="true" version="1" changeset="9729170" timestamp="2011-11-03T10:36:45Z" user="Cristian1989" uid="429539" lat="45.4277060" lon="9.2536530"/>
+ <node id="1490231711" visible="true" version="1" changeset="9729170" timestamp="2011-11-03T10:36:45Z" user="Cristian1989" uid="429539" lat="45.4278169" lon="9.2515265"/>
+ <node id="1490231712" visible="true" version="1" changeset="9729170" timestamp="2011-11-03T10:36:45Z" user="Cristian1989" uid="429539" lat="45.4276021" lon="9.2522644"/>
+ <node id="1490231713" visible="true" version="1" changeset="9729170" timestamp="2011-11-03T10:36:46Z" user="Cristian1989" uid="429539" lat="45.4299733" lon="9.2458864"/>
+ <node id="430757148" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:47Z" user="Cristian1989" uid="429539" lat="45.4497716" lon="9.2061586"/>
+ <node id="998638225" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4626333" lon="9.1887030">
+  <tag k="comment" v="another grille"/>
+  <tag k="fixme" v="position is approximate"/>
+ </node>
+ <node id="998638207" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:48Z" user="Cristian1989" uid="429539" lat="45.4641026" lon="9.1888023">
+  <tag k="ref" v="Linea 3 Nº 201"/>
+ </node>
+ <node id="998638085" visible="true" version="2" changeset="9729170" timestamp="2011-11-03T10:36:49Z" user="Cristian1989" uid="429539" lat="45.4639666" lon="9.1887977">
+  <tag k="ref" v="Linea 3 Nº 202"/>
+ </node>
+ <node id="1477892258" visible="true" version="3" changeset="10075898" timestamp="2011-12-09T19:55:06Z" user="Cristian1989" uid="429539" lat="45.4605729" lon="9.1885901"/>
+ <node id="715904516" visible="true" version="6" changeset="10116937" timestamp="2011-12-14T15:41:55Z" user="Cristian1989" uid="429539" lat="45.4660700" lon="9.1887531"/>
+ <node id="723072595" visible="true" version="4" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439" lat="45.4675938" lon="9.1901453">
+  <tag k="name" v="Teatro alla Scala"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11558"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="680094629" visible="true" version="6" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439" lat="45.4662890" lon="9.1887523">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Teatro alla Scala"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11557"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="715904505" visible="true" version="5" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439" lat="45.4656282" lon="9.1871232">
+  <tag k="name" v="Cordusio"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11493"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="661556428" visible="true" version="7" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439" lat="45.4656021" lon="9.1875543">
+  <tag k="name" v="Via Grossi"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11509"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="1505099592" visible="true" version="1" changeset="9843648" timestamp="2011-11-16T11:38:57Z" user="Cristian1989" uid="429539" lat="45.4443723" lon="9.2152881"/>
+ <node id="1538000168" visible="true" version="1" changeset="10072185" timestamp="2011-12-09T11:12:55Z" user="mdk" uid="178186" lat="45.4647525" lon="9.1900262"/>
+ <node id="1545889404" visible="true" version="1" changeset="10116937" timestamp="2011-12-14T15:41:55Z" user="Cristian1989" uid="429539" lat="45.4663608" lon="9.1889012"/>
+ <node id="1545889415" visible="true" version="1" changeset="10116937" timestamp="2011-12-14T15:41:55Z" user="Cristian1989" uid="429539" lat="45.4662258" lon="9.1887993"/>
+ <node id="1584812995" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:35:54Z" user="Cristian1989" uid="429539" lat="45.4656254" lon="9.1879297"/>
+ <node id="1584813008" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:35:55Z" user="Cristian1989" uid="429539" lat="45.4656041" lon="9.1868649"/>
+ <node id="1584818274" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4673967" lon="9.1899428"/>
+ <node id="1584818275" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4656426" lon="9.1881618"/>
+ <node id="1584818276" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4669836" lon="9.1894411"/>
+ <node id="1584818277" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4656072" lon="9.1880240"/>
+ <node id="1584818278" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4672283" lon="9.1898046"/>
+ <node id="1584818279" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4656831" lon="9.1881899"/>
+ <node id="1584818280" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4656784" lon="9.1882248"/>
+ <node id="1584818281" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4665822" lon="9.1889732"/>
+ <node id="1584818283" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4656034" lon="9.1879492"/>
+ <node id="1584818285" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4659634" lon="9.1884273"/>
+ <node id="1584818287" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:53Z" user="Cristian1989" uid="429539" lat="45.4674202" lon="9.1899897"/>
+ <node id="1584818294" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4672810" lon="9.1898717"/>
+ <node id="1584818296" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4669763" lon="9.1894734"/>
+ <node id="1584818298" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4665399" lon="9.1889879"/>
+ <node id="1584818300" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4673309" lon="9.1898878"/>
+ <node id="1584818301" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4661928" lon="9.1886620"/>
+ <node id="1584818302" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4669208" lon="9.1893205"/>
+ <node id="1584818303" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4673346" lon="9.1899227"/>
+ <node id="1584818304" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4657978" lon="9.1883388"/>
+ <node id="1584818305" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4656313" lon="9.1880223"/>
+ <node id="1584818314" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4669469" lon="9.1893647"/>
+ <node id="1584818317" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4656499" lon="9.1881148"/>
+ <node id="1584818319" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:54Z" user="Cristian1989" uid="429539" lat="45.4668829" lon="9.1892735"/>
+ <node id="1584818320" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4670290" lon="9.1895163"/>
+ <node id="1584818322" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4670346" lon="9.1895686"/>
+ <node id="1584818323" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4672801" lon="9.1898288"/>
+ <node id="1584818324" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4669330" lon="9.1894077"/>
+ <node id="1584818329" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4656163" lon="9.1880867"/>
+ <node id="1584818332" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4662784" lon="9.1886969"/>
+ <node id="1584818334" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4668735" lon="9.1893298"/>
+ <node id="1584818336" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4657216" lon="9.1882771"/>
+ <node id="1584818338" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4659831" lon="9.1884837"/>
+ <node id="1584818340" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4667609" lon="9.1892105"/>
+ <node id="1584818342" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:41:55Z" user="Cristian1989" uid="429539" lat="45.4657329" lon="9.1882490"/>
+ <node id="1584826074" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:12Z" user="Cristian1989" uid="429539" lat="45.4665170" lon="9.1889408"/>
+ <node id="1584826076" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:12Z" user="Cristian1989" uid="429539" lat="45.4658261" lon="9.1883211"/>
+ <node id="1584826079" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:12Z" user="Cristian1989" uid="429539" lat="45.4665899" lon="9.1890074"/>
+ <node id="1584826080" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:12Z" user="Cristian1989" uid="429539" lat="45.4658189" lon="9.1883360"/>
+ <node id="1584826090" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:13Z" user="Cristian1989" uid="429539" lat="45.4665785" lon="9.1890268"/>
+ <node id="1584826109" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:13Z" user="Cristian1989" uid="429539" lat="45.4665281" lon="9.1889240"/>
+ <node id="1584826117" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:13Z" user="Cristian1989" uid="429539" lat="45.4673676" lon="9.1899485"/>
+ <node id="1584826146" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4660616" lon="9.1885504"/>
+ <node id="1584826161" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4660871" lon="9.1885523"/>
+ <node id="1584826165" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4656950" lon="9.1882274"/>
+ <node id="1584826167" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4666066" lon="9.1890228"/>
+ <node id="1584826169" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4668728" lon="9.1892950"/>
+ <node id="1584826188" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4682980" lon="9.1908943"/>
+ <node id="1584826192" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:14Z" user="Cristian1989" uid="429539" lat="45.4661744" lon="9.1886277"/>
+ <node id="1584826202" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4669224" lon="9.1893647"/>
+ <node id="1584826207" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4660603" lon="9.1885291"/>
+ <node id="1584826218" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4664073" lon="9.1888404"/>
+ <node id="1584826231" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4659953" lon="9.1884729"/>
+ <node id="1584826232" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4662217" lon="9.1886687"/>
+ <node id="1584826233" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4669604" lon="9.1893928"/>
+ <node id="1584826238" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4669445" lon="9.1894230"/>
+ <node id="1584826240" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4656945" lon="9.1882443"/>
+ <node id="1584826244" visible="true" version="1" changeset="10353311" timestamp="2012-01-10T17:48:15Z" user="Cristian1989" uid="429539" lat="45.4700548" lon="9.1927971"/>
+ <node id="1584818312" visible="true" version="2" changeset="10353311" timestamp="2012-01-10T17:48:17Z" user="Cristian1989" uid="429539" lat="45.4674558" lon="9.1899906"/>
+ <node id="1584839453" visible="true" version="1" changeset="10353511" timestamp="2012-01-10T17:57:04Z" user="Cristian1989" uid="429539" lat="45.4656300" lon="9.1868361"/>
+ <node id="1754349536" visible="true" version="1" changeset="11609695" timestamp="2012-05-15T22:15:16Z" user="kaitu" uid="69717" lat="45.4665079" lon="9.1900774"/>
+ <node id="951637215" visible="true" version="2" changeset="11740494" timestamp="2012-05-29T17:46:03Z" user="kaitu" uid="69717" lat="45.4655634" lon="9.1912391"/>
+ <node id="1780606130" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4648644" lon="9.1901247"/>
+ <node id="1780606131" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4648663" lon="9.1899163"/>
+ <node id="1780606132" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4654334" lon="9.1899081"/>
+ <node id="1780606133" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4654337" lon="9.1901194"/>
+ <node id="1780606134" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4654754" lon="9.1898181"/>
+ <node id="1780606135" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4655317" lon="9.1906989"/>
+ <node id="1780606136" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4655383" lon="9.1902599"/>
+ <node id="1780606137" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4655395" lon="9.1897602"/>
+ <node id="1780606138" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4655433" lon="9.1893224"/>
+ <node id="1780606139" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4656875" lon="9.1897737"/>
+ <node id="1780606140" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4656914" lon="9.1893241"/>
+ <node id="1780606141" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4656952" lon="9.1906995"/>
+ <node id="1780606142" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4656966" lon="9.1902611"/>
+ <node id="1780606143" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4657834" lon="9.1899066"/>
+ <node id="1780606144" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4657855" lon="9.1901179"/>
+ <node id="1780606145" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4663664" lon="9.1901384"/>
+ <node id="1780606146" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4663741" lon="9.1899053"/>
+ <node id="1780606147" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4664260" lon="9.1900726"/>
+ <node id="1780606148" visible="true" version="1" changeset="11837740" timestamp="2012-06-08T18:06:07Z" user="kaitu" uid="69717" lat="45.4664325" lon="9.1899804"/>
+ <node id="206143831" visible="true" version="7" changeset="11837740" timestamp="2012-06-08T18:06:17Z" user="kaitu" uid="69717" lat="45.4656123" lon="9.1900141"/>
+ <node id="1781534099" visible="true" version="1" changeset="11844679" timestamp="2012-06-09T12:58:29Z" user="Cristian1989" uid="429539" lat="45.4701598" lon="9.1928562"/>
+ <node id="1781536221" visible="true" version="1" changeset="11844717" timestamp="2012-06-09T13:03:48Z" user="Cristian1989" uid="429539" lat="45.4668653" lon="9.1894571"/>
+ <node id="568389976" visible="true" version="4" changeset="13223488" timestamp="2012-09-23T17:41:02Z" user="ilrobi" uid="22110" lat="45.4662972" lon="9.1877660"/>
+ <node id="1836655552" visible="true" version="1" changeset="12468709" timestamp="2012-07-24T15:05:29Z" user="AnyFile" uid="113669" lat="45.4651088" lon="9.1886310">
+  <tag k="note" v="targa &quot;VIA CARLO CATTANEO&quot;"/>
+ </node>
+ <node id="1836655553" visible="true" version="1" changeset="12468709" timestamp="2012-07-24T15:05:29Z" user="AnyFile" uid="113669" lat="45.4655830" lon="9.1886299">
+  <tag k="comment" v="divieto di transito eccetto autorizzati"/>
+  <tag k="traffic_sign" v="yes"/>
+ </node>
+ <node id="1836655556" visible="true" version="1" changeset="12468709" timestamp="2012-07-24T15:05:29Z" user="AnyFile" uid="113669" lat="45.4656831" lon="9.1885041">
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="1836685253" visible="true" version="1" changeset="12469641" timestamp="2012-07-24T15:50:14Z" user="AnyFile" uid="113669" lat="45.4652313" lon="9.1886666">
+  <tag k="amenity" v="bank"/>
+  <tag k="name" v="Ing Direct"/>
+ </node>
+ <node id="1836685254" visible="true" version="1" changeset="12469641" timestamp="2012-07-24T15:50:14Z" user="AnyFile" uid="113669" lat="45.4650913" lon="9.1884567">
+  <tag k="amenity" v="clock"/>
+  <tag k="display" v="analog"/>
+  <tag k="support" v="pole"/>
+ </node>
+ <node id="1836685255" visible="true" version="1" changeset="12469641" timestamp="2012-07-24T15:50:14Z" user="AnyFile" uid="113669" lat="45.4651426" lon="9.1886320">
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="1309304532" visible="true" version="2" changeset="13244494" timestamp="2012-09-25T10:19:03Z" user="AnyFile" uid="113669" lat="45.4702312" lon="9.1929290">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Montenapoleone"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11829"/>
+  <tag k="shelter" v="yes"/>
+ </node>
+ <node id="1331294787" visible="true" version="4" changeset="19304339" timestamp="2013-12-06T11:21:27Z" user="adirricor" uid="245439" lat="45.4709637" lon="9.1937240">
+  <tag k="name" v="Via Manzoni - Via Pisoni"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11830"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="1309304531" visible="true" version="4" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439" lat="45.4692516" lon="9.1919029">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Montenapoleone"/>
+  <tag k="public_transport" v="stop_position"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="ref" v="11560"/>
+  <tag k="shelter" v="no"/>
+ </node>
+ <node id="1850014870" visible="true" version="1" changeset="12599227" timestamp="2012-08-03T14:55:27Z" user="AnyFile" uid="113669" lat="45.4648256" lon="9.1885466"/>
+ <node id="1855655654" visible="true" version="1" changeset="12646224" timestamp="2012-08-07T14:37:20Z" user="AnyFile" uid="113669" lat="45.4712959" lon="9.1940716"/>
+ <node id="1855811730" visible="true" version="1" changeset="12647379" timestamp="2012-08-07T16:12:13Z" user="AnyFile" uid="113669" lat="45.4648653" lon="9.1900246"/>
+ <node id="1965042070" visible="true" version="1" changeset="13495453" timestamp="2012-10-14T17:01:29Z" user="AnyFile" uid="113669" lat="45.4656111" lon="9.1889845">
+  <tag k="highway" v="turning_circle"/>
+ </node>
+ <node id="1584814644" visible="true" version="3" changeset="14238865" timestamp="2012-12-11T14:34:40Z" user="AnyFile" uid="113669" lat="45.4656311" lon="9.1867707">
+  <tag k="comment:it" v="scambio elettrificato a lancio di corrente (bloccato)"/>
+  <tag k="railway" v="switch"/>
+  <tag k="ref" v="79"/>
+ </node>
+ <node id="340474842" visible="true" version="5" changeset="19506334" timestamp="2013-12-17T21:44:13Z" user="AnyFile" uid="113669" lat="45.4426848" lon="9.2188070">
+  <tag k="name" v="Brenta"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Brenta (metropolitana di Milano)"/>
+ </node>
+ <node id="257898306" visible="true" version="13" changeset="19506334" timestamp="2013-12-17T21:44:13Z" user="AnyFile" uid="113669" lat="45.4561588" lon="9.1955709">
+  <tag k="name" v="Crocetta"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Crocetta (metropolitana di Milano)"/>
+ </node>
+ <node id="257898307" visible="true" version="11" changeset="19506334" timestamp="2013-12-17T21:44:13Z" user="AnyFile" uid="113669" lat="45.4472442" lon="9.2101403">
+  <tag k="name" v="Lodi"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Lodi T.I.B.B. (metropolitana di Milano)"/>
+ </node>
+ <node id="257898305" visible="true" version="10" changeset="19506334" timestamp="2013-12-17T21:44:14Z" user="AnyFile" uid="113669" lat="45.4518038" lon="9.2028830">
+  <tag k="name" v="Porta Romana"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Porta Romana (metropolitana di Milano)"/>
+ </node>
+ <node id="340060545" visible="true" version="6" changeset="19506334" timestamp="2013-12-17T21:44:14Z" user="AnyFile" uid="113669" lat="45.4372034" lon="9.2304412">
+  <tag k="name" v="Porto di Mare"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Porto di Mare (metropolitana di Milano)"/>
+ </node>
+ <node id="340059424" visible="true" version="7" changeset="19506334" timestamp="2013-12-17T21:44:14Z" user="AnyFile" uid="113669" lat="45.4335862" lon="9.2380891">
+  <tag k="name" v="Rogoredo"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Rogoredo (metropolitana di Milano)"/>
+ </node>
+ <node id="318013353" visible="true" version="11" changeset="19506334" timestamp="2013-12-17T21:44:14Z" user="AnyFile" uid="113669" lat="45.4291841" lon="9.2563113">
+  <tag k="name" v="San Donato"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:San Donato (metropolitana di Milano)"/>
+ </node>
+ <node id="1274872667" visible="true" version="3" changeset="16807882" timestamp="2013-07-03T15:33:05Z" user="AnyFile" uid="113669" lat="45.4663876" lon="9.1889920">
+  <tag k="amenity" v="ice_cream"/>
+  <tag k="fixme" v="Name has changed. To be update"/>
+  <tag k="name" v="Lato G"/>
+ </node>
+ <node id="1309304555" visible="true" version="3" changeset="19601984" timestamp="2013-12-23T15:23:28Z" user="sarabarberis" uid="1853723" lat="45.4682077" lon="9.1911757">
+  <tag k="ref" v="Linea 3 Nº 209"/>
+ </node>
+ <node id="2404101223" visible="true" version="1" changeset="17184502" timestamp="2013-08-01T20:32:02Z" user="AnyFile" uid="113669" lat="45.4424735" lon="9.2192405"/>
+ <node id="2498380561" visible="true" version="1" changeset="18385075" timestamp="2013-10-16T12:08:57Z" user="andranik1966" uid="1774515" lat="45.4651870" lon="9.1886510">
+  <tag k="man_made" v="surveillance"/>
+  <tag k="name" v="Surveillance camera"/>
+ </node>
+ <node id="2498381086" visible="true" version="1" changeset="18385086" timestamp="2013-10-16T12:09:29Z" user="andranik1966" uid="1774515" lat="45.4652090" lon="9.1886190">
+  <tag k="man_made" v="surveillance"/>
+  <tag k="name" v="Surveillance camera"/>
+ </node>
+ <node id="2498383329" visible="true" version="1" changeset="18385151" timestamp="2013-10-16T12:12:41Z" user="andranik1966" uid="1774515" lat="45.4655550" lon="9.1888830">
+  <tag k="man_made" v="surveillance"/>
+  <tag k="name" v="Two surveillance camera"/>
+ </node>
+ <node id="257900140" visible="true" version="14" changeset="18646370" timestamp="2013-11-01T04:33:50Z" user="uenomanga" uid="1792195" lat="45.4645822" lon="9.1887902">
+  <tag k="name" v="Duomo"/>
+  <tag k="name:ja" v="ドゥオーモ"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="wikipedia" v="it:Duomo (metropolitana di Milano)"/>
+ </node>
+ <node id="2523368010" visible="true" version="1" changeset="18767917" timestamp="2013-11-07T17:03:33Z" user="rugamarcus" uid="95387" lat="45.4275758" lon="9.2525480"/>
+ <node id="257900139" visible="true" version="11" changeset="20214447" timestamp="2014-01-26T17:39:08Z" user="Alecs01" uid="1476146" lat="45.4600580" lon="9.1893640">
+  <tag k="name" v="Missori"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="station"/>
+  <tag k="start_date" v="1990"/>
+  <tag k="wikipedia" v="it:Missori (metropolitana di Milano)"/>
+ </node>
+ <way id="23227664" visible="true" version="3" changeset="4578319" timestamp="2010-05-01T22:01:46Z" user="stanton" uid="230707">
+  <nd ref="206143856"/>
+  <nd ref="314984571"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+ </way>
+ <way id="28660861" visible="true" version="6" changeset="17259236" timestamp="2013-08-07T20:42:11Z" user="AnyFile" uid="113669">
+  <nd ref="249156831"/>
+  <nd ref="249159341"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Silvio Pellico"/>
+ </way>
+ <way id="44833376" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:36Z" user="ilrobi" uid="22110">
+  <nd ref="568389990"/>
+  <nd ref="568389992"/>
+  <nd ref="568389996"/>
+  <nd ref="568389980"/>
+  <nd ref="568389990"/>
+ </way>
+ <way id="44833377" visible="true" version="1" changeset="3185919" timestamp="2009-11-22T13:45:36Z" user="ilrobi" uid="22110">
+  <nd ref="568389981"/>
+  <nd ref="568389982"/>
+  <nd ref="568389983"/>
+  <nd ref="568389984"/>
+  <nd ref="568389985"/>
+  <nd ref="568389986"/>
+  <nd ref="568389981"/>
+ </way>
+ <way id="44833637" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:31Z" user="ilrobi" uid="22110">
+  <nd ref="568392085"/>
+  <nd ref="568392088"/>
+  <nd ref="568392089"/>
+  <nd ref="568392087"/>
+  <nd ref="568392085"/>
+ </way>
+ <way id="44833639" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:31Z" user="ilrobi" uid="22110">
+  <nd ref="568392099"/>
+  <nd ref="568392102"/>
+  <nd ref="568392103"/>
+  <nd ref="568392100"/>
+  <nd ref="568392099"/>
+ </way>
+ <way id="44833640" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:31Z" user="ilrobi" uid="22110">
+  <nd ref="568392104"/>
+  <nd ref="568392106"/>
+  <nd ref="568392107"/>
+  <nd ref="568392105"/>
+  <nd ref="568392104"/>
+ </way>
+ <way id="44833641" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:32Z" user="ilrobi" uid="22110">
+  <nd ref="568392109"/>
+  <nd ref="568392111"/>
+  <nd ref="568392113"/>
+  <nd ref="568392110"/>
+  <nd ref="568392109"/>
+ </way>
+ <way id="44833642" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:32Z" user="ilrobi" uid="22110">
+  <nd ref="568392114"/>
+  <nd ref="568392120"/>
+  <nd ref="568392117"/>
+  <nd ref="568392116"/>
+  <nd ref="568392114"/>
+ </way>
+ <way id="83605157" visible="true" version="1" changeset="6254088" timestamp="2010-11-01T12:03:48Z" user="ilrobi" uid="22110">
+  <nd ref="973632512"/>
+  <nd ref="973632491"/>
+  <nd ref="973632519"/>
+  <nd ref="973632524"/>
+  <nd ref="973632505"/>
+  <nd ref="973632508"/>
+  <nd ref="973632496"/>
+  <nd ref="973632502"/>
+  <nd ref="973632518"/>
+  <nd ref="973632523"/>
+  <nd ref="973632512"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="44833638" visible="true" version="3" changeset="8068919" timestamp="2011-05-06T21:12:57Z" user="FedericoCozzi" uid="80088">
+  <nd ref="568392118"/>
+  <nd ref="568392119"/>
+  <nd ref="568392097"/>
+  <nd ref="568392091"/>
+  <nd ref="1274837207"/>
+  <nd ref="568392094"/>
+  <nd ref="568392095"/>
+  <nd ref="1274837213"/>
+  <nd ref="568392118"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+ </way>
+ <way id="57742687" visible="true" version="4" changeset="11993361" timestamp="2012-06-23T21:20:54Z" user="ciclobby-onlus" uid="705381">
+  <nd ref="314984571"/>
+  <nd ref="973632493"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Via Tommaso Grossi"/>
+  <tag k="surface_bike" v="milanese_paving"/>
+ </way>
+ <way id="53869265" visible="true" version="5" changeset="10353311" timestamp="2012-01-10T17:48:21Z" user="Cristian1989" uid="429539">
+  <nd ref="1584826074"/>
+  <nd ref="1584826109"/>
+  <nd ref="680094621"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Passaggio Giovanni Malagodi"/>
+  <tag k="old_name" v="Vicolo Santa Margherita"/>
+ </way>
+ <way id="44833387" visible="true" version="5" changeset="8026555" timestamp="2011-05-01T22:02:41Z" user="FedericoCozzi" uid="80088">
+  <nd ref="1239252140"/>
+  <nd ref="568390073"/>
+  <nd ref="568390074"/>
+  <nd ref="1239252143"/>
+  <nd ref="1239252140"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+ </way>
+ <way id="107908261" visible="true" version="2" changeset="8061117" timestamp="2011-05-05T21:10:05Z" user="FedericoCozzi" uid="80088">
+  <nd ref="1239252145"/>
+  <nd ref="568389966"/>
+  <nd ref="568389965"/>
+  <nd ref="568389976"/>
+  <nd ref="1239252147"/>
+  <nd ref="1239252145"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+ </way>
+ <way id="12543636" visible="true" version="24" changeset="19304339" timestamp="2013-12-06T11:23:30Z" user="adirricor" uid="245439">
+  <nd ref="1584813008"/>
+  <nd ref="661556428"/>
+  <nd ref="1584818283"/>
+  <nd ref="1584818277"/>
+  <nd ref="1584818329"/>
+  <nd ref="1584818275"/>
+  <nd ref="1584818280"/>
+  <nd ref="1584826240"/>
+  <nd ref="1584818336"/>
+  <nd ref="1584818304"/>
+  <nd ref="1584818338"/>
+  <nd ref="1584826146"/>
+  <nd ref="1584818301"/>
+  <nd ref="680094629"/>
+  <nd ref="1584818298"/>
+  <nd ref="1584826090"/>
+  <nd ref="1584818340"/>
+  <nd ref="1584818334"/>
+  <nd ref="1584818324"/>
+  <nd ref="1584826238"/>
+  <nd ref="1584818296"/>
+  <nd ref="1584818322"/>
+  <nd ref="1584818278"/>
+  <nd ref="1584818294"/>
+  <nd ref="1584818303"/>
+  <nd ref="1584826117"/>
+  <nd ref="1584818287"/>
+  <nd ref="251289220"/>
+  <nd ref="1479463543"/>
+  <nd ref="1479463497"/>
+  <nd ref="1479463538"/>
+  <nd ref="1309304531"/>
+  <nd ref="1479463487"/>
+  <nd ref="1479463529"/>
+  <nd ref="1584826244"/>
+  <nd ref="1479463506"/>
+  <nd ref="1479463516"/>
+  <nd ref="114317254"/>
+  <nd ref="1331294787"/>
+  <nd ref="1855655654"/>
+  <nd ref="114317270"/>
+  <nd ref="251291708"/>
+  <nd ref="499417636"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1445"/>
+  <tag k="lit" v="yes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="parking:lane:right" v="no_parking"/>
+  <tag k="postal_code" v="20121"/>
+  <tag k="railway" v="tram"/>
+  <tag k="tram" v="yes"/>
+  <tag k="voltage" v="600"/>
+ </way>
+ <way id="44833636" visible="true" version="2" changeset="8068919" timestamp="2011-05-06T21:12:57Z" user="FedericoCozzi" uid="80088">
+  <nd ref="568392079"/>
+  <nd ref="568392081"/>
+  <nd ref="568392084"/>
+  <nd ref="568392082"/>
+  <nd ref="568392079"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Park Hyatt Milano"/>
+  <tag k="tourism" v="hotel"/>
+ </way>
+ <way id="114187491" visible="true" version="3" changeset="11993361" timestamp="2012-06-23T21:20:49Z" user="ciclobby-onlus" uid="705381">
+  <nd ref="973632516"/>
+  <nd ref="1584826146"/>
+  <nd ref="1584826161"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Santa Margherita"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface_bike" v="sett"/>
+ </way>
+ <way id="163757297" visible="true" version="2" changeset="11993361" timestamp="2012-06-23T21:20:51Z" user="ciclobby-onlus" uid="705381">
+  <nd ref="1584826079"/>
+  <nd ref="1584826090"/>
+  <nd ref="249157557"/>
+  <nd ref="249156830"/>
+  <nd ref="314984571"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Silvio Pellico"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="166623705" visible="true" version="6" changeset="14279486" timestamp="2012-12-15T10:32:14Z" user="Pau69" uid="975150">
+  <nd ref="1780606142"/>
+  <nd ref="1780606144"/>
+  <nd ref="1780606145"/>
+  <nd ref="1780606147"/>
+  <nd ref="1780606148"/>
+  <nd ref="1780606146"/>
+  <nd ref="1780606143"/>
+  <nd ref="1780606139"/>
+  <nd ref="1780606140"/>
+  <nd ref="206143856"/>
+  <nd ref="1780606138"/>
+  <nd ref="1780606137"/>
+  <nd ref="1780606134"/>
+  <nd ref="1780606132"/>
+  <nd ref="1780606131"/>
+  <nd ref="1780606130"/>
+  <nd ref="1780606133"/>
+  <nd ref="1780606136"/>
+  <nd ref="1780606135"/>
+  <nd ref="951637066"/>
+  <nd ref="1780606141"/>
+  <nd ref="1780606142"/>
+  <tag k="building" v="roof"/>
+  <tag k="historic" v="yes"/>
+  <tag k="tourism" v="attraction"/>
+ </way>
+ <way id="166623700" visible="true" version="4" changeset="14946882" timestamp="2013-02-07T16:37:30Z" user="Simone Saviolo" uid="169211">
+  <nd ref="1780606148"/>
+  <nd ref="1754349536"/>
+  <nd ref="206143832"/>
+  <nd ref="1781536221"/>
+  <nd ref="951637164"/>
+  <nd ref="951637112"/>
+  <nd ref="1780606140"/>
+  <nd ref="1780606139"/>
+  <nd ref="1780606143"/>
+ </way>
+ <way id="168773934" visible="true" version="3" changeset="12982157" timestamp="2012-09-04T13:41:53Z" user="AnyFile" uid="113669">
+  <nd ref="314984571"/>
+  <nd ref="249156831"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Silvio Pellico"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="83605153" visible="true" version="4" changeset="13495453" timestamp="2012-10-14T17:01:32Z" user="AnyFile" uid="113669">
+  <nd ref="973632493"/>
+  <nd ref="1965042070"/>
+  <nd ref="251293096"/>
+  <tag k="access" v="no"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Via Tommaso Grossi"/>
+  <tag k="surface_bike" v="milanese_paving"/>
+ </way>
+ <way id="183448132" visible="true" version="3" changeset="19304339" timestamp="2013-12-06T11:23:29Z" user="adirricor" uid="245439">
+  <nd ref="1479463481"/>
+  <nd ref="1479463512"/>
+  <nd ref="1479463530"/>
+  <nd ref="1479463518"/>
+  <nd ref="1479463491"/>
+  <nd ref="1479463547"/>
+  <nd ref="1479463533"/>
+  <nd ref="1309304532"/>
+  <nd ref="1781534099"/>
+  <nd ref="1479463503"/>
+  <nd ref="1479463493"/>
+  <nd ref="1479463479"/>
+  <nd ref="1479463495"/>
+  <nd ref="1479463483"/>
+  <nd ref="1584826188"/>
+  <nd ref="1479463548"/>
+  <nd ref="1479463508"/>
+  <nd ref="1479463515"/>
+  <nd ref="723072595"/>
+  <nd ref="1479463514"/>
+  <nd ref="1584818312"/>
+  <nd ref="1584818274"/>
+  <nd ref="1584818300"/>
+  <nd ref="1584818323"/>
+  <nd ref="1584818320"/>
+  <nd ref="1584818276"/>
+  <nd ref="1584826233"/>
+  <nd ref="1584818314"/>
+  <nd ref="1584818302"/>
+  <nd ref="1584818319"/>
+  <nd ref="1584818281"/>
+  <nd ref="1584826109"/>
+  <nd ref="1584818332"/>
+  <nd ref="1584818285"/>
+  <nd ref="1584826076"/>
+  <nd ref="1584818342"/>
+  <nd ref="1584818279"/>
+  <nd ref="1584818317"/>
+  <nd ref="1584818305"/>
+  <nd ref="1584812995"/>
+  <nd ref="715904505"/>
+  <nd ref="1584839453"/>
+  <nd ref="1584814644"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1445"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="railway" v="tram"/>
+  <tag k="tram" v="yes"/>
+  <tag k="voltage" v="600"/>
+ </way>
+ <way id="171931724" visible="true" version="3" changeset="12469641" timestamp="2012-07-24T15:50:14Z" user="AnyFile" uid="113669">
+  <nd ref="249156831"/>
+  <nd ref="1836685255"/>
+  <nd ref="249159397"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Carlo Cattaneo"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="172813931" visible="true" version="1" changeset="12468709" timestamp="2012-07-24T15:05:30Z" user="AnyFile" uid="113669">
+  <nd ref="1584826080"/>
+  <nd ref="1584826231"/>
+  <nd ref="1584826207"/>
+  <nd ref="1584826161"/>
+  <nd ref="1584826192"/>
+  <nd ref="1584826232"/>
+  <nd ref="1584826218"/>
+  <nd ref="1584826074"/>
+  <tag k="cycling_width" v="sufficient"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Santa Margherita"/>
+  <tag k="surface_bike" v="milanese_paving"/>
+ </way>
+ <way id="28660860" visible="true" version="9" changeset="12599227" timestamp="2012-08-03T14:55:34Z" user="AnyFile" uid="113669">
+  <nd ref="419123693"/>
+  <nd ref="1850014870"/>
+  <nd ref="715904514"/>
+  <nd ref="249159397"/>
+  <nd ref="251293096"/>
+  <nd ref="973632516"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Giuseppe Mengoni"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface_bike" v="sett"/>
+ </way>
+ <way id="166623693" visible="true" version="5" changeset="19471250" timestamp="2013-12-15T20:13:07Z" user="hubeat" uid="457265">
+  <nd ref="206143856"/>
+  <nd ref="206143831"/>
+  <nd ref="951637066"/>
+  <tag k="covered" v="yes"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="name" v="Galleria Vittorio Emanuele II"/>
+  <tag k="name:ja" v="ヴィットーリオ・エマヌエーレ2世のガッレリア"/>
+  <tag k="tourism" v="attraction"/>
+  <tag k="wikipedia" v="it:Galleria Vittorio Emanuele II"/>
+ </way>
+ <way id="168773931" visible="true" version="2" changeset="19506334" timestamp="2013-12-17T21:44:13Z" user="AnyFile" uid="113669">
+  <nd ref="1584826074"/>
+  <nd ref="1584826079"/>
+  <nd ref="1584826167"/>
+  <nd ref="1584826169"/>
+  <nd ref="1584826202"/>
+  <nd ref="251289421"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Via Santa Margherita"/>
+  <tag k="surface_bike" v="milanese_paving"/>
+ </way>
+ <way id="83605155" visible="true" version="9" changeset="16482333" timestamp="2013-06-09T13:58:16Z" user="Davio" uid="217070">
+  <nd ref="1584826165"/>
+  <nd ref="1584826240"/>
+  <nd ref="1836655556"/>
+  <nd ref="973632516"/>
+  <tag k="access" v="no"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycling_width" v="good"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="motorcycle" v="yes"/>
+  <tag k="name" v="Via Santa Margherita"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="psv" v="yes"/>
+ </way>
+ <way id="253196160" visible="true" version="2" changeset="19997137" timestamp="2014-01-14T18:39:03Z" user="AnyFile" uid="113669">
+  <nd ref="1309304555"/>
+  <nd ref="1545889404"/>
+  <nd ref="1545889415"/>
+  <nd ref="715904516"/>
+  <nd ref="257900140"/>
+  <nd ref="998638138"/>
+  <nd ref="998638207"/>
+  <nd ref="998638085"/>
+  <nd ref="998638225"/>
+  <nd ref="998638094"/>
+  <nd ref="1477892258"/>
+  <nd ref="1477892253"/>
+  <nd ref="257900139"/>
+  <nd ref="1272557451"/>
+  <nd ref="257898306"/>
+  <nd ref="1272557531"/>
+  <nd ref="257898305"/>
+  <nd ref="430757148"/>
+  <nd ref="257898307"/>
+  <nd ref="1272557820"/>
+  <nd ref="1505099592"/>
+  <nd ref="340474842"/>
+  <nd ref="2404101223"/>
+  <nd ref="340061063"/>
+  <nd ref="340060545"/>
+  <nd ref="340059424"/>
+  <nd ref="1490231713"/>
+  <nd ref="1477601540"/>
+  <nd ref="1490231711"/>
+  <nd ref="1490231712"/>
+  <nd ref="2523368010"/>
+  <nd ref="996571880"/>
+  <nd ref="1490231708"/>
+  <nd ref="1490231710"/>
+  <nd ref="996572296"/>
+  <nd ref="318013353"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1435"/>
+  <tag k="layer" v="-3"/>
+  <tag k="name" v="Linea M3 (metropolitana di Milano)"/>
+  <tag k="name:ja" v="ミラノ地下鉄M3線"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="railway" v="subway"/>
+  <tag k="tunnel" v="yes"/>
+  <tag k="voltage" v="1500"/>
+  <tag k="wikipedia" v="it:Linea M3 (metropolitana di Milano)"/>
+ </way>
+ <way id="81657252" visible="true" version="10" changeset="17259236" timestamp="2013-08-07T20:42:12Z" user="AnyFile" uid="113669">
+  <nd ref="1780606138"/>
+  <nd ref="951637202"/>
+  <nd ref="249159341"/>
+  <nd ref="951637162"/>
+  <nd ref="951637102"/>
+  <nd ref="1836655552"/>
+  <nd ref="951637277"/>
+  <nd ref="951637155"/>
+  <nd ref="951637264"/>
+  <nd ref="951637221"/>
+  <nd ref="951637180"/>
+  <nd ref="951637132"/>
+  <nd ref="1538000168"/>
+  <nd ref="951637127"/>
+  <nd ref="951637288"/>
+  <nd ref="951637231"/>
+  <nd ref="951637193"/>
+  <nd ref="951637096"/>
+  <nd ref="951637254"/>
+  <nd ref="951637215"/>
+  <nd ref="951637173"/>
+  <nd ref="951637170"/>
+  <nd ref="566336047"/>
+  <nd ref="951637115"/>
+  <nd ref="1780606135"/>
+  <nd ref="1780606136"/>
+  <nd ref="1780606133"/>
+  <nd ref="1780606130"/>
+  <nd ref="1855811730"/>
+  <nd ref="1780606131"/>
+  <nd ref="1780606132"/>
+  <nd ref="1780606134"/>
+  <nd ref="1780606137"/>
+  <nd ref="1780606138"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <relation id="334108" visible="true" version="3" changeset="7817667" timestamp="2011-04-09T21:22:32Z" user="FedericoCozzi" uid="80088">
+  <member type="way" ref="107908261" role="outer"/>
+  <member type="way" ref="81657249" role="inner"/>
+  <member type="way" ref="44833376" role="inner"/>
+  <member type="way" ref="44833377" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="334114" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:32Z" user="ilrobi" uid="22110">
+  <member type="way" ref="44833638" role="outer"/>
+  <member type="way" ref="44833639" role="inner"/>
+  <member type="way" ref="44833641" role="inner"/>
+  <member type="way" ref="44833640" role="inner"/>
+  <member type="way" ref="44833642" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="334115" visible="true" version="1" changeset="3185958" timestamp="2009-11-22T13:48:32Z" user="ilrobi" uid="22110">
+  <member type="way" ref="44833636" role="outer"/>
+  <member type="way" ref="44833637" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="1251243" visible="true" version="1" changeset="6254088" timestamp="2010-11-01T12:03:49Z" user="ilrobi" uid="22110">
+  <member type="way" ref="83605157" role="outer"/>
+  <member type="way" ref="83605159" role="inner"/>
+  <member type="way" ref="83605156" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="919278" visible="true" version="13" changeset="16862042" timestamp="2013-07-07T15:17:57Z" user="mttclv" uid="835826">
+  <member type="node" ref="257678346" role="stop"/>
+  <member type="node" ref="29463264" role="stop"/>
+  <member type="node" ref="27555351" role="stop"/>
+  <member type="node" ref="21227207" role="stop"/>
+  <member type="node" ref="21227049" role="stop"/>
+  <member type="node" ref="21226111" role="stop"/>
+  <member type="node" ref="21225838" role="stop"/>
+  <member type="node" ref="21226654" role="stop"/>
+  <member type="node" ref="21226008" role="stop"/>
+  <member type="node" ref="1272557583" role="stop"/>
+  <member type="node" ref="232864604" role="stop"/>
+  <member type="node" ref="232864605" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="307809391" role="stop"/>
+  <member type="node" ref="307809395" role="stop"/>
+  <member type="node" ref="307809735" role="stop"/>
+  <member type="node" ref="1725942582" role="stop"/>
+  <member type="node" ref="267034934" role="stop"/>
+  <member type="node" ref="295548092" role="stop"/>
+  <member type="node" ref="434849658" role="stop"/>
+  <member type="node" ref="270443358" role="stop"/>
+  <member type="node" ref="270443359" role="stop"/>
+  <member type="node" ref="317997619" role="stop"/>
+  <member type="node" ref="302941608" role="stop"/>
+  <member type="node" ref="256380164" role="stop"/>
+  <member type="node" ref="256384526" role="stop"/>
+  <member type="way" ref="173949865" role="backward"/>
+  <member type="way" ref="4012041" role="backward"/>
+  <member type="way" ref="183480483" role="forward"/>
+  <tag k="colour" v="#EB312E"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="Bisceglie"/>
+  <tag k="name" v="M1 (Bisceglie → Sesto FS)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="note" v="Linea rossa"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M1"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Sesto FS"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="919311" visible="true" version="16" changeset="19601984" timestamp="2013-12-23T15:23:28Z" user="sarabarberis" uid="1853723">
+  <member type="node" ref="318013353" role="stop"/>
+  <member type="node" ref="340059424" role="stop"/>
+  <member type="node" ref="340060545" role="stop"/>
+  <member type="node" ref="340061063" role="stop"/>
+  <member type="node" ref="340474842" role="stop"/>
+  <member type="node" ref="257898307" role="stop"/>
+  <member type="node" ref="257898305" role="stop"/>
+  <member type="node" ref="257898306" role="stop"/>
+  <member type="node" ref="257900139" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="257900141" role="stop"/>
+  <member type="node" ref="257900143" role="stop"/>
+  <member type="node" ref="2344518514" role="stop"/>
+  <member type="node" ref="91567650" role="stop"/>
+  <member type="node" ref="1737802639" role="stop"/>
+  <member type="node" ref="1737802640" role="stop"/>
+  <member type="node" ref="1737802638" role="stop"/>
+  <member type="node" ref="441109563" role="stop"/>
+  <member type="node" ref="1029570927" role="stop"/>
+  <member type="node" ref="1277834213" role="stop"/>
+  <member type="node" ref="441109566" role="stop"/>
+  <member type="way" ref="206753627" role="backward"/>
+  <member type="way" ref="253196160" role="backward"/>
+  <member type="way" ref="206753628" role="backward"/>
+  <member type="way" ref="161826810" role="backward"/>
+  <member type="way" ref="37629399" role="forward"/>
+  <tag k="colour" v="#E2E11D"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="San Donato"/>
+  <tag k="name" v="M3 (San Donato → Comasina)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M3"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Comasina"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="919276" visible="true" version="15" changeset="16862042" timestamp="2013-07-07T15:17:56Z" user="mttclv" uid="835826">
+  <member type="node" ref="344552615" role="stop"/>
+  <member type="node" ref="791819611" role="stop"/>
+  <member type="node" ref="344551806" role="stop"/>
+  <member type="node" ref="301102639" role="stop"/>
+  <member type="node" ref="301102520" role="stop"/>
+  <member type="node" ref="301102148" role="stop"/>
+  <member type="node" ref="301102111" role="stop"/>
+  <member type="node" ref="344550581" role="stop"/>
+  <member type="node" ref="344550296" role="stop"/>
+  <member type="node" ref="21226123" role="stop"/>
+  <member type="node" ref="21227215" role="stop"/>
+  <member type="node" ref="21226654" role="stop"/>
+  <member type="node" ref="21226008" role="stop"/>
+  <member type="node" ref="1272557583" role="stop"/>
+  <member type="node" ref="232864604" role="stop"/>
+  <member type="node" ref="232864605" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="307809391" role="stop"/>
+  <member type="node" ref="307809395" role="stop"/>
+  <member type="node" ref="307809735" role="stop"/>
+  <member type="node" ref="1725942582" role="stop"/>
+  <member type="node" ref="267034934" role="stop"/>
+  <member type="node" ref="295548092" role="stop"/>
+  <member type="node" ref="434849658" role="stop"/>
+  <member type="node" ref="270443358" role="stop"/>
+  <member type="node" ref="270443359" role="stop"/>
+  <member type="node" ref="317997619" role="stop"/>
+  <member type="node" ref="302941608" role="stop"/>
+  <member type="node" ref="256380164" role="stop"/>
+  <member type="node" ref="256384526" role="stop"/>
+  <member type="way" ref="4012159" role="backward"/>
+  <member type="way" ref="24355460" role="forward"/>
+  <member type="way" ref="183480483" role="forward"/>
+  <tag k="colour" v="#EB312E"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="Rho Fiera"/>
+  <tag k="name" v="M1 (Rho Fiera → Sesto FS)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="note" v="Linea rossa"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M1"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Sesto FS"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="919279" visible="true" version="14" changeset="16862042" timestamp="2013-07-07T15:17:57Z" user="mttclv" uid="835826">
+  <member type="node" ref="256384526" role="stop"/>
+  <member type="node" ref="256380164" role="stop"/>
+  <member type="node" ref="302941608" role="stop"/>
+  <member type="node" ref="317997619" role="stop"/>
+  <member type="node" ref="270443359" role="stop"/>
+  <member type="node" ref="270443358" role="stop"/>
+  <member type="node" ref="434849658" role="stop"/>
+  <member type="node" ref="295548092" role="stop"/>
+  <member type="node" ref="267034934" role="stop"/>
+  <member type="node" ref="1725942582" role="stop"/>
+  <member type="node" ref="307809735" role="stop"/>
+  <member type="node" ref="307809395" role="stop"/>
+  <member type="node" ref="307809391" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="232864605" role="stop"/>
+  <member type="node" ref="232864604" role="stop"/>
+  <member type="node" ref="1272557583" role="stop"/>
+  <member type="node" ref="21226008" role="stop"/>
+  <member type="node" ref="21226654" role="stop"/>
+  <member type="node" ref="21225838" role="stop"/>
+  <member type="node" ref="21226111" role="stop"/>
+  <member type="node" ref="21227049" role="stop"/>
+  <member type="node" ref="21227207" role="stop"/>
+  <member type="node" ref="27555351" role="stop"/>
+  <member type="node" ref="29463264" role="stop"/>
+  <member type="node" ref="257678346" role="stop"/>
+  <member type="way" ref="183480483" role="backward"/>
+  <member type="way" ref="4012041" role="forward"/>
+  <member type="way" ref="173949865" role="forward"/>
+  <tag k="colour" v="#EB312E"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="Sesto FS"/>
+  <tag k="name" v="M1 (Sesto FS → Bisceglie)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="note" v="Linea rossa"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M1"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Bisceglie"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="971048" visible="true" version="10" changeset="12614864" timestamp="2012-08-04T21:57:17Z" user="AnyFile" uid="113669">
+  <member type="relation" ref="660237" role=""/>
+  <member type="relation" ref="660236" role=""/>
+  <member type="relation" ref="660325" role=""/>
+  <member type="relation" ref="660326" role=""/>
+  <member type="relation" ref="611644" role=""/>
+  <member type="relation" ref="611653" role=""/>
+  <member type="relation" ref="1622156" role=""/>
+  <member type="relation" ref="1915381" role=""/>
+  <member type="relation" ref="912391" role=""/>
+  <member type="relation" ref="912392" role=""/>
+  <member type="relation" ref="2063155" role=""/>
+  <member type="relation" ref="1621839" role=""/>
+  <member type="relation" ref="929849" role=""/>
+  <member type="relation" ref="929848" role=""/>
+  <member type="relation" ref="2330261" role=""/>
+  <member type="relation" ref="553968" role=""/>
+  <member type="relation" ref="553882" role=""/>
+  <member type="relation" ref="611651" role=""/>
+  <member type="relation" ref="611652" role=""/>
+  <member type="relation" ref="897523" role=""/>
+  <member type="relation" ref="897522" role=""/>
+  <member type="relation" ref="661000" role=""/>
+  <member type="relation" ref="661028" role=""/>
+  <member type="relation" ref="917516" role=""/>
+  <member type="relation" ref="917517" role=""/>
+  <member type="relation" ref="902974" role=""/>
+  <member type="relation" ref="902975" role=""/>
+  <member type="relation" ref="660978" role=""/>
+  <member type="relation" ref="661027" role=""/>
+  <member type="relation" ref="722062" role=""/>
+  <member type="relation" ref="72441" role=""/>
+  <member type="relation" ref="920089" role=""/>
+  <member type="relation" ref="920090" role=""/>
+  <member type="relation" ref="920038" role=""/>
+  <member type="relation" ref="920037" role=""/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="name" v="Rete tranviaria urbana a Milano"/>
+  <tag k="network" v="tram"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="type" v="network"/>
+ </relation>
+ <relation id="1004314" visible="true" version="87" changeset="16701085" timestamp="2013-06-25T15:32:47Z" user="AnyFile" uid="113669">
+  <member type="relation" ref="660237" role=""/>
+  <member type="relation" ref="660236" role=""/>
+  <member type="relation" ref="660326" role=""/>
+  <member type="relation" ref="660325" role=""/>
+  <member type="relation" ref="611644" role=""/>
+  <member type="relation" ref="611653" role=""/>
+  <member type="relation" ref="1622156" role=""/>
+  <member type="relation" ref="1915381" role=""/>
+  <member type="relation" ref="912391" role=""/>
+  <member type="relation" ref="912392" role=""/>
+  <member type="relation" ref="1309468" role=""/>
+  <member type="relation" ref="1001039" role=""/>
+  <member type="relation" ref="929849" role=""/>
+  <member type="relation" ref="929848" role=""/>
+  <member type="relation" ref="553968" role=""/>
+  <member type="relation" ref="553882" role=""/>
+  <member type="relation" ref="611651" role=""/>
+  <member type="relation" ref="611652" role=""/>
+  <member type="relation" ref="897523" role=""/>
+  <member type="relation" ref="897522" role=""/>
+  <member type="relation" ref="1285137" role=""/>
+  <member type="relation" ref="1286083" role=""/>
+  <member type="relation" ref="661000" role=""/>
+  <member type="relation" ref="661028" role=""/>
+  <member type="relation" ref="917516" role=""/>
+  <member type="relation" ref="917517" role=""/>
+  <member type="relation" ref="902974" role=""/>
+  <member type="relation" ref="902975" role=""/>
+  <member type="relation" ref="660978" role=""/>
+  <member type="relation" ref="661027" role=""/>
+  <member type="relation" ref="722062" role=""/>
+  <member type="relation" ref="72441" role=""/>
+  <member type="relation" ref="920089" role=""/>
+  <member type="relation" ref="920090" role=""/>
+  <member type="relation" ref="920038" role=""/>
+  <member type="relation" ref="920037" role=""/>
+  <member type="relation" ref="1279547" role=""/>
+  <member type="relation" ref="1280328" role=""/>
+  <member type="relation" ref="1979644" role=""/>
+  <member type="relation" ref="1979645" role=""/>
+  <member type="relation" ref="1799164" role=""/>
+  <member type="relation" ref="1802930" role=""/>
+  <member type="relation" ref="452513" role=""/>
+  <member type="relation" ref="452512" role=""/>
+  <member type="relation" ref="903047" role=""/>
+  <member type="relation" ref="903046" role=""/>
+  <member type="relation" ref="2333260" role=""/>
+  <member type="relation" ref="2333261" role=""/>
+  <member type="relation" ref="1281900" role=""/>
+  <member type="relation" ref="1272331" role=""/>
+  <member type="relation" ref="539795" role=""/>
+  <member type="relation" ref="905113" role=""/>
+  <member type="relation" ref="905112" role=""/>
+  <member type="relation" ref="444526" role=""/>
+  <member type="relation" ref="933946" role=""/>
+  <member type="relation" ref="1576534" role=""/>
+  <member type="relation" ref="1576535" role=""/>
+  <member type="relation" ref="1384888" role=""/>
+  <member type="relation" ref="1580351" role=""/>
+  <member type="relation" ref="540372" role=""/>
+  <member type="relation" ref="898960" role=""/>
+  <member type="relation" ref="1287922" role=""/>
+  <member type="relation" ref="1287605" role=""/>
+  <member type="relation" ref="1287923" role=""/>
+  <member type="relation" ref="1287803" role=""/>
+  <member type="relation" ref="1309969" role=""/>
+  <member type="relation" ref="1272543" role=""/>
+  <member type="relation" ref="1384890" role=""/>
+  <member type="relation" ref="1384887" role=""/>
+  <member type="relation" ref="540371" role=""/>
+  <member type="relation" ref="540483" role=""/>
+  <member type="relation" ref="1277594" role=""/>
+  <member type="relation" ref="1277595" role=""/>
+  <member type="relation" ref="1274737" role=""/>
+  <member type="relation" ref="937848" role=""/>
+  <member type="relation" ref="905147" role=""/>
+  <member type="relation" ref="905146" role=""/>
+  <member type="relation" ref="1277521" role=""/>
+  <member type="relation" ref="1277520" role=""/>
+  <member type="relation" ref="1277518" role=""/>
+  <member type="relation" ref="1277522" role=""/>
+  <member type="relation" ref="1285140" role=""/>
+  <member type="relation" ref="1274734" role=""/>
+  <member type="relation" ref="536924" role=""/>
+  <member type="relation" ref="536895" role=""/>
+  <member type="relation" ref="536992" role=""/>
+  <member type="relation" ref="536964" role=""/>
+  <member type="relation" ref="537008" role=""/>
+  <member type="relation" ref="537040" role=""/>
+  <member type="relation" ref="1310029" role=""/>
+  <member type="relation" ref="1310049" role=""/>
+  <member type="relation" ref="905966" role=""/>
+  <member type="relation" ref="905967" role=""/>
+  <member type="relation" ref="913907" role=""/>
+  <member type="relation" ref="913880" role=""/>
+  <member type="relation" ref="452481" role=""/>
+  <member type="relation" ref="1384889" role=""/>
+  <member type="relation" ref="1580317" role=""/>
+  <member type="relation" ref="444469" role=""/>
+  <member type="relation" ref="912221" role=""/>
+  <member type="relation" ref="912377" role=""/>
+  <member type="relation" ref="908956" role=""/>
+  <member type="relation" ref="445904" role=""/>
+  <member type="relation" ref="420649" role=""/>
+  <member type="relation" ref="611538" role=""/>
+  <member type="relation" ref="611446" role=""/>
+  <member type="relation" ref="1274564" role=""/>
+  <member type="relation" ref="1274563" role=""/>
+  <member type="relation" ref="1353072" role=""/>
+  <member type="relation" ref="1594243" role=""/>
+  <member type="relation" ref="1594244" role=""/>
+  <member type="relation" ref="1590066" role=""/>
+  <member type="relation" ref="908955" role=""/>
+  <member type="relation" ref="1277573" role=""/>
+  <member type="relation" ref="1279810" role=""/>
+  <member type="relation" ref="1279809" role=""/>
+  <member type="relation" ref="976302" role=""/>
+  <member type="relation" ref="976303" role=""/>
+  <member type="relation" ref="1584310" role=""/>
+  <member type="relation" ref="1584309" role=""/>
+  <member type="relation" ref="2333166" role=""/>
+  <member type="relation" ref="1799180" role=""/>
+  <member type="relation" ref="611595" role=""/>
+  <member type="relation" ref="611680" role=""/>
+  <member type="relation" ref="905968" role=""/>
+  <member type="relation" ref="905971" role=""/>
+  <member type="relation" ref="1280588" role=""/>
+  <member type="relation" ref="1280587" role=""/>
+  <member type="relation" ref="1572784" role=""/>
+  <member type="relation" ref="1572787" role=""/>
+  <member type="relation" ref="908954" role=""/>
+  <member type="relation" ref="912211" role=""/>
+  <member type="relation" ref="1400441" role=""/>
+  <member type="relation" ref="1595772" role=""/>
+  <member type="relation" ref="1355856" role=""/>
+  <member type="relation" ref="1355696" role=""/>
+  <member type="relation" ref="936655" role=""/>
+  <member type="relation" ref="936654" role=""/>
+  <member type="relation" ref="1574862" role=""/>
+  <member type="relation" ref="1574863" role=""/>
+  <member type="relation" ref="1281913" role=""/>
+  <member type="relation" ref="1281912" role=""/>
+  <member type="relation" ref="1802773" role=""/>
+  <member type="relation" ref="933750" role=""/>
+  <member type="relation" ref="933748" role=""/>
+  <member type="relation" ref="1410882" role=""/>
+  <member type="relation" ref="1309454" role=""/>
+  <member type="relation" ref="1309455" role=""/>
+  <member type="relation" ref="1309385" role=""/>
+  <member type="relation" ref="1309453" role=""/>
+  <member type="relation" ref="1360550" role=""/>
+  <member type="relation" ref="1360566" role=""/>
+  <member type="relation" ref="2819210" role=""/>
+  <member type="relation" ref="2819416" role=""/>
+  <member type="relation" ref="1353025" role=""/>
+  <member type="relation" ref="1444543" role=""/>
+  <member type="relation" ref="2826591" role=""/>
+  <member type="relation" ref="2826584" role=""/>
+  <member type="relation" ref="2828977" role=""/>
+  <member type="relation" ref="1904295" role=""/>
+  <member type="relation" ref="2812893" role=""/>
+  <member type="relation" ref="2625131" role=""/>
+  <member type="relation" ref="2645405" role=""/>
+  <member type="relation" ref="2645404" role=""/>
+  <member type="relation" ref="1597350" role=""/>
+  <member type="relation" ref="2540064" role=""/>
+  <member type="relation" ref="919278" role=""/>
+  <member type="relation" ref="919276" role=""/>
+  <member type="relation" ref="919279" role=""/>
+  <member type="relation" ref="919277" role=""/>
+  <member type="relation" ref="919292" role=""/>
+  <member type="relation" ref="919290" role=""/>
+  <member type="relation" ref="1576143" role=""/>
+  <member type="relation" ref="919293" role=""/>
+  <member type="relation" ref="1576144" role=""/>
+  <member type="relation" ref="919291" role=""/>
+  <member type="relation" ref="919312" role=""/>
+  <member type="relation" ref="919311" role=""/>
+  <member type="relation" ref="1275550" role=""/>
+  <member type="relation" ref="1275549" role=""/>
+  <member type="relation" ref="1275535" role=""/>
+  <member type="relation" ref="1275600" role=""/>
+  <member type="relation" ref="919412" role=""/>
+  <member type="relation" ref="919413" role=""/>
+  <member type="relation" ref="936758" role=""/>
+  <member type="relation" ref="936757" role=""/>
+  <member type="relation" ref="919367" role=""/>
+  <member type="relation" ref="919368" role=""/>
+  <member type="relation" ref="936756" role=""/>
+  <member type="relation" ref="936755" role=""/>
+  <member type="relation" ref="1021281" role=""/>
+  <member type="relation" ref="1021280" role=""/>
+  <member type="relation" ref="1016815" role=""/>
+  <member type="relation" ref="1016814" role=""/>
+  <member type="relation" ref="1016812" role=""/>
+  <member type="relation" ref="1016813" role=""/>
+  <member type="relation" ref="1021284" role=""/>
+  <member type="relation" ref="1021285" role=""/>
+  <member type="relation" ref="1020457" role=""/>
+  <member type="relation" ref="1020455" role=""/>
+  <member type="relation" ref="1020458" role=""/>
+  <member type="relation" ref="1020453" role=""/>
+  <member type="relation" ref="919472" role=""/>
+  <member type="relation" ref="919471" role=""/>
+  <member type="relation" ref="1020456" role=""/>
+  <member type="relation" ref="1020454" role=""/>
+  <member type="relation" ref="1903597" role=""/>
+  <member type="relation" ref="1968915" role=""/>
+  <member type="relation" ref="1903599" role=""/>
+  <member type="relation" ref="1751746" role=""/>
+  <member type="relation" ref="1751745" role=""/>
+  <member type="relation" ref="2122216" role=""/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="name" v="Trasporti pubblici a Milano"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="type" v="network"/>
+ </relation>
+ <relation id="971062" visible="true" version="8" changeset="12701489" timestamp="2012-08-12T13:08:39Z" user="Luca Sirtori" uid="506470">
+  <member type="relation" ref="919278" role=""/>
+  <member type="relation" ref="919276" role=""/>
+  <member type="relation" ref="919279" role=""/>
+  <member type="relation" ref="919277" role=""/>
+  <member type="relation" ref="919292" role=""/>
+  <member type="relation" ref="919290" role=""/>
+  <member type="relation" ref="1576143" role=""/>
+  <member type="relation" ref="919293" role=""/>
+  <member type="relation" ref="1576144" role=""/>
+  <member type="relation" ref="919291" role=""/>
+  <member type="relation" ref="919312" role=""/>
+  <member type="relation" ref="919311" role=""/>
+  <member type="relation" ref="1275550" role=""/>
+  <member type="relation" ref="1275549" role=""/>
+  <member type="relation" ref="1275535" role=""/>
+  <member type="relation" ref="1275600" role=""/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="name" v="Rete metropolitana di Milano"/>
+  <tag k="network" v="subway"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="type" v="network"/>
+ </relation>
+ <relation id="919277" visible="true" version="15" changeset="16862042" timestamp="2013-07-07T15:17:56Z" user="mttclv" uid="835826">
+  <member type="node" ref="256384526" role="stop"/>
+  <member type="node" ref="256380164" role="stop"/>
+  <member type="node" ref="302941608" role="stop"/>
+  <member type="node" ref="317997619" role="stop"/>
+  <member type="node" ref="270443359" role="stop"/>
+  <member type="node" ref="270443358" role="stop"/>
+  <member type="node" ref="434849658" role="stop"/>
+  <member type="node" ref="295548092" role="stop"/>
+  <member type="node" ref="267034934" role="stop"/>
+  <member type="node" ref="1725942582" role="stop"/>
+  <member type="node" ref="307809735" role="stop"/>
+  <member type="node" ref="307809395" role="stop"/>
+  <member type="node" ref="307809391" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="232864605" role="stop"/>
+  <member type="node" ref="232864604" role="stop"/>
+  <member type="node" ref="1272557583" role="stop"/>
+  <member type="node" ref="21226008" role="stop"/>
+  <member type="node" ref="21226654" role="stop"/>
+  <member type="node" ref="21227215" role="stop"/>
+  <member type="node" ref="21226123" role="stop"/>
+  <member type="node" ref="344550296" role="stop"/>
+  <member type="node" ref="344550581" role="stop"/>
+  <member type="node" ref="301102111" role="stop"/>
+  <member type="node" ref="301102148" role="stop"/>
+  <member type="node" ref="301102520" role="stop"/>
+  <member type="node" ref="301102639" role="stop"/>
+  <member type="node" ref="344551806" role="stop"/>
+  <member type="node" ref="791819611" role="stop"/>
+  <member type="node" ref="344552615" role="stop"/>
+  <member type="way" ref="183480483" role="backward"/>
+  <member type="way" ref="24355460" role="backward"/>
+  <member type="way" ref="4012159" role="forward"/>
+  <tag k="colour" v="#EB312E"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="Sesto FS"/>
+  <tag k="name" v="M1 (Sesto FS → Rho Fiera)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="note" v="Linea rossa"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M1"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="Rho Fiera"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="1227161" visible="true" version="5" changeset="12982157" timestamp="2012-09-04T13:41:50Z" user="AnyFile" uid="113669">
+  <member type="way" ref="81657252" role="outer"/>
+  <member type="way" ref="83605151" role="inner"/>
+  <member type="way" ref="81657256" role="inner"/>
+  <member type="way" ref="81657266" role="inner"/>
+  <member type="way" ref="81657268" role="inner"/>
+  <member type="way" ref="81657258" role="inner"/>
+  <member type="way" ref="81657271" role="inner"/>
+  <member type="way" ref="81657234" role="inner"/>
+  <member type="way" ref="81657238" role="inner"/>
+  <member type="way" ref="81657261" role="inner"/>
+  <member type="way" ref="81657245" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="919312" visible="true" version="15" changeset="19601984" timestamp="2013-12-23T15:23:29Z" user="sarabarberis" uid="1853723">
+  <member type="node" ref="441109566" role="stop"/>
+  <member type="node" ref="1277834213" role="stop"/>
+  <member type="node" ref="1029570927" role="stop"/>
+  <member type="node" ref="441109563" role="stop"/>
+  <member type="node" ref="1737802638" role="stop"/>
+  <member type="node" ref="1737802640" role="stop"/>
+  <member type="node" ref="1737802639" role="stop"/>
+  <member type="node" ref="91567650" role="stop"/>
+  <member type="node" ref="2344518514" role="stop"/>
+  <member type="node" ref="257900143" role="stop"/>
+  <member type="node" ref="257900141" role="stop"/>
+  <member type="node" ref="257900140" role="stop"/>
+  <member type="node" ref="257900139" role="stop"/>
+  <member type="node" ref="257898306" role="stop"/>
+  <member type="node" ref="257898305" role="stop"/>
+  <member type="node" ref="257898307" role="stop"/>
+  <member type="node" ref="340474842" role="stop"/>
+  <member type="node" ref="340061063" role="stop"/>
+  <member type="node" ref="340060545" role="stop"/>
+  <member type="node" ref="340059424" role="stop"/>
+  <member type="node" ref="318013353" role="stop"/>
+  <member type="way" ref="37629399" role="backward"/>
+  <member type="way" ref="161826810" role="forward"/>
+  <member type="way" ref="206753628" role="forward"/>
+  <member type="way" ref="206753627" role="forward"/>
+  <member type="way" ref="253196160" role="forward"/>
+  <tag k="colour" v="#E2E11D"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="from" v="Comasina"/>
+  <tag k="name" v="M3 (Comasina → San Donato)"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="M3"/>
+  <tag k="route" v="subway"/>
+  <tag k="to" v="San Donato"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2221146" visible="true" version="4" changeset="14946882" timestamp="2013-02-07T16:37:24Z" user="Simone Saviolo" uid="169211">
+  <member type="way" ref="166623700" role="outer"/>
+  <member type="way" ref="176511667" role="outer"/>
+  <member type="way" ref="81657237" role="inner"/>
+  <member type="way" ref="81657250" role="inner"/>
+  <member type="way" ref="81657255" role="inner"/>
+  <member type="way" ref="81657241" role="inner"/>
+  <tag k="building" v="yes"/>
+  <tag k="tourism" v="attraction"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="660236" visible="true" version="108" changeset="20161211" timestamp="2014-01-23T15:03:35Z" user="adirricor" uid="245439">
+  <member type="way" ref="174509152" role="forward"/>
+  <member type="way" ref="183697143" role="forward"/>
+  <member type="way" ref="168748699" role="forward"/>
+  <member type="way" ref="134018357" role="forward"/>
+  <member type="way" ref="257924262" role="forward"/>
+  <member type="way" ref="257924259" role="forward"/>
+  <member type="way" ref="257933122" role="forward"/>
+  <member type="way" ref="257933121" role="forward"/>
+  <member type="way" ref="257933123" role="forward"/>
+  <member type="way" ref="134018122" role="forward"/>
+  <member type="way" ref="134018142" role="forward"/>
+  <member type="way" ref="134577556" role="forward"/>
+  <member type="way" ref="134577907" role="forward"/>
+  <member type="way" ref="162797946" role="forward"/>
+  <member type="way" ref="134578532" role="forward"/>
+  <member type="way" ref="134558628" role="forward"/>
+  <member type="way" ref="134558710" role="forward"/>
+  <member type="way" ref="145591025" role="forward"/>
+  <member type="way" ref="134579409" role="forward"/>
+  <member type="way" ref="182832819" role="forward"/>
+  <member type="way" ref="162729494" role="forward"/>
+  <member type="way" ref="162730109" role="forward"/>
+  <member type="way" ref="162729510" role="forward"/>
+  <member type="way" ref="134579767" role="forward"/>
+  <member type="way" ref="172821010" role="forward"/>
+  <member type="way" ref="183448130" role="forward"/>
+  <member type="way" ref="183448132" role="forward"/>
+  <member type="way" ref="145012914" role="forward"/>
+  <member type="way" ref="112602527" role="forward"/>
+  <member type="way" ref="174443899" role="forward"/>
+  <member type="way" ref="112602526" role="forward"/>
+  <member type="way" ref="182825760" role="forward"/>
+  <member type="way" ref="182835452" role="forward"/>
+  <member type="way" ref="182835456" role="forward"/>
+  <member type="way" ref="182835458" role="forward"/>
+  <member type="way" ref="32013384" role="forward"/>
+  <member type="way" ref="182936267" role="forward"/>
+  <member type="way" ref="182936265" role="forward"/>
+  <member type="way" ref="183191422" role="forward"/>
+  <member type="way" ref="183191431" role="forward"/>
+  <member type="way" ref="183191424" role="forward"/>
+  <member type="way" ref="183477228" role="forward"/>
+  <member type="way" ref="134772691" role="forward"/>
+  <member type="way" ref="134667144" role="forward"/>
+  <member type="way" ref="134667147" role="forward"/>
+  <member type="way" ref="134667142" role="forward"/>
+  <member type="way" ref="134667349" role="forward"/>
+  <member type="way" ref="134667280" role="forward"/>
+  <member type="way" ref="134667992" role="forward"/>
+  <member type="way" ref="134773547" role="forward"/>
+  <member type="way" ref="175813218" role="forward"/>
+  <member type="way" ref="23634781" role="forward"/>
+  <member type="way" ref="134669656" role="forward"/>
+  <member type="way" ref="134768525" role="forward"/>
+  <member type="node" ref="1932003882" role="stop"/>
+  <member type="node" ref="1932003787" role="stop"/>
+  <member type="node" ref="1932003848" role="stop"/>
+  <member type="node" ref="1932003862" role="stop"/>
+  <member type="node" ref="1932003799" role="stop"/>
+  <member type="node" ref="1932003913" role="stop"/>
+  <member type="node" ref="1932003918" role="stop"/>
+  <member type="node" ref="1931981420" role="stop"/>
+  <member type="node" ref="1932003817" role="stop"/>
+  <member type="node" ref="1479455193" role="stop"/>
+  <member type="node" ref="1309304532" role="stop"/>
+  <member type="node" ref="723072595" role="stop"/>
+  <member type="node" ref="715904505" role="stop"/>
+  <member type="node" ref="1931920288" role="stop"/>
+  <member type="node" ref="680127417" role="stop"/>
+  <member type="node" ref="1932040047" role="stop"/>
+  <member type="node" ref="435235721" role="stop"/>
+  <member type="node" ref="1935579819" role="stop"/>
+  <member type="node" ref="1935579820" role="stop"/>
+  <member type="node" ref="1935579817" role="stop"/>
+  <member type="node" ref="1938525416" role="stop"/>
+  <member type="node" ref="723173232" role="stop"/>
+  <member type="node" ref="723173242" role="stop"/>
+  <member type="node" ref="723173235" role="stop"/>
+  <member type="node" ref="723173237" role="stop"/>
+  <member type="node" ref="723278941" role="stop"/>
+  <member type="node" ref="687897965" role="stop"/>
+  <member type="node" ref="2425602949" role="stop"/>
+  <member type="node" ref="2529588284" role="stop"/>
+  <member type="node" ref="95760547" role="platform"/>
+  <member type="node" ref="2353678189" role="stop"/>
+  <member type="node" ref="2353678188" role="platform"/>
+  <member type="node" ref="705565219" role="stop"/>
+  <member type="node" ref="705565227" role="stop"/>
+  <member type="node" ref="1481236071" role="stop"/>
+  <member type="node" ref="2550285511" role="stop"/>
+  <member type="node" ref="2550296695" role="stop"/>
+  <member type="node" ref="2550306761" role="stop"/>
+  <member type="node" ref="2567774253" role="stop"/>
+  <member type="node" ref="1988995279" role="stop"/>
+  <member type="way" ref="146379327" role="forward"/>
+  <member type="node" ref="1851803082" role="stop"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="fixme" v="most stops are missing"/>
+  <tag k="from" v="Greco Rovereto"/>
+  <tag k="name" v="1 Piazza Castelli"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="note" v="This is the direction Greco Rovereto-Castelli; the way back is a separate relation"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="1"/>
+  <tag k="route" v="tram"/>
+  <tag k="to" v="Piazza Castelli"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="660237" visible="true" version="105" changeset="20165125" timestamp="2014-01-23T18:59:12Z" user="adirricor" uid="245439">
+  <member type="way" ref="134669655" role="forward"/>
+  <member type="way" ref="55287863" role="forward"/>
+  <member type="way" ref="250293978" role="forward"/>
+  <member type="way" ref="134773546" role="forward"/>
+  <member type="way" ref="134667997" role="forward"/>
+  <member type="way" ref="134667279" role="forward"/>
+  <member type="way" ref="134667348" role="forward"/>
+  <member type="way" ref="134667148" role="forward"/>
+  <member type="way" ref="134667149" role="forward"/>
+  <member type="way" ref="134667146" role="forward"/>
+  <member type="way" ref="135038512" role="forward"/>
+  <member type="way" ref="183474096" role="forward"/>
+  <member type="way" ref="183477263" role="forward"/>
+  <member type="way" ref="183191432" role="forward"/>
+  <member type="way" ref="243983837" role="forward"/>
+  <member type="way" ref="182835459" role="forward"/>
+  <member type="way" ref="56304524" role="forward"/>
+  <member type="way" ref="53886624" role="forward"/>
+  <member type="way" ref="182825751" role="forward"/>
+  <member type="way" ref="146379325" role="forward"/>
+  <member type="way" ref="146379326" role="forward"/>
+  <member type="way" ref="145012682" role="forward"/>
+  <member type="way" ref="12543636" role="forward"/>
+  <member type="way" ref="183448128" role="forward"/>
+  <member type="way" ref="183448131" role="forward"/>
+  <member type="way" ref="30656120" role="forward"/>
+  <member type="way" ref="134579407" role="forward"/>
+  <member type="way" ref="162729490" role="forward"/>
+  <member type="way" ref="162730112" role="forward"/>
+  <member type="way" ref="182832813" role="forward"/>
+  <member type="way" ref="134558627" role="forward"/>
+  <member type="way" ref="134558629" role="forward"/>
+  <member type="way" ref="134578527" role="forward"/>
+  <member type="way" ref="134577905" role="forward"/>
+  <member type="way" ref="134577902" role="forward"/>
+  <member type="way" ref="101434628" role="forward"/>
+  <member type="way" ref="23249400" role="forward"/>
+  <member type="way" ref="134018124" role="forward"/>
+  <member type="way" ref="32226291" role="forward"/>
+  <member type="way" ref="257933125" role="forward"/>
+  <member type="way" ref="257933126" role="forward"/>
+  <member type="way" ref="257924257" role="forward"/>
+  <member type="way" ref="257925703" role="forward"/>
+  <member type="way" ref="257924260" role="forward"/>
+  <member type="way" ref="168748698" role="forward"/>
+  <member type="way" ref="168748697" role="forward"/>
+  <member type="way" ref="168748696" role="forward"/>
+  <member type="way" ref="183697141" role="forward"/>
+  <member type="node" ref="1481236071" role="stop"/>
+  <member type="node" ref="705565228" role="stop"/>
+  <member type="node" ref="705565223" role="stop"/>
+  <member type="node" ref="1027325470" role="stop"/>
+  <member type="node" ref="2353678186" role="stop"/>
+  <member type="node" ref="2425602948" role="stop"/>
+  <member type="node" ref="723278934" role="stop"/>
+  <member type="node" ref="723278945" role="stop"/>
+  <member type="node" ref="723173239" role="stop"/>
+  <member type="node" ref="723173240" role="stop"/>
+  <member type="node" ref="723173231" role="stop"/>
+  <member type="node" ref="723173234" role="stop"/>
+  <member type="node" ref="1938525411" role="stop"/>
+  <member type="node" ref="1938525378" role="stop"/>
+  <member type="node" ref="1935579821" role="stop"/>
+  <member type="node" ref="1935579818" role="stop"/>
+  <member type="node" ref="1932040039" role="stop"/>
+  <member type="node" ref="1932040049" role="stop"/>
+  <member type="node" ref="680138648" role="stop"/>
+  <member type="node" ref="723072590" role="stop"/>
+  <member type="node" ref="715883679" role="stop"/>
+  <member type="node" ref="661556428" role="stop"/>
+  <member type="node" ref="680094629" role="stop"/>
+  <member type="node" ref="1309304531" role="stop"/>
+  <member type="node" ref="1331294787" role="stop"/>
+  <member type="node" ref="1479455215" role="stop"/>
+  <member type="node" ref="1931981421" role="stop"/>
+  <member type="node" ref="1931981419" role="stop"/>
+  <member type="node" ref="1730563213" role="stop"/>
+  <member type="node" ref="1932003889" role="stop"/>
+  <member type="node" ref="1932003807" role="stop"/>
+  <member type="node" ref="1932003853" role="stop"/>
+  <member type="node" ref="1932003792" role="stop"/>
+  <member type="node" ref="1932003872" role="stop"/>
+  <member type="node" ref="1851803082" role="stop"/>
+  <member type="node" ref="2550284934" role="stop"/>
+  <member type="node" ref="2550296703" role="stop"/>
+  <member type="node" ref="2550306760" role="stop"/>
+  <member type="node" ref="2567774250" role="stop"/>
+  <member type="node" ref="1988995281" role="stop"/>
+  <member type="node" ref="1480287712" role="stop"/>
+  <tag k="comment" v="http://wiki.openstreetmap.org/wiki/Milano/Trasporti_pubblici"/>
+  <tag k="fixme" v="most stops are missing"/>
+  <tag k="from" v="Piazza Castelli"/>
+  <tag k="name" v="1 Greco Rovereto"/>
+  <tag k="network" v="SITAM"/>
+  <tag k="operator" v="ATM"/>
+  <tag k="ref" v="1"/>
+  <tag k="route" v="tram"/>
+  <tag k="to" v="Greco Rovereto"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>
