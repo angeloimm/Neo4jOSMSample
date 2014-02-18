@@ -1,4 +1,4 @@
-package it.olegan.routing.exception;
+package it.olegna.routing.exception;
 
 public class GraphCreatorException extends Exception {
 

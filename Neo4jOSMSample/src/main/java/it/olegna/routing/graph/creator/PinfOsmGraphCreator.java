@@ -1,6 +1,6 @@
 package it.olegna.routing.graph.creator;
 
-import it.olegan.routing.exception.GraphCreatorException;
+import it.olegna.routing.exception.GraphCreatorException;
 import it.olegna.routing.osmosis.sinks.CreateGraphSinkImpl;
 import it.olegna.routing.osmosis.sinks.PrepareNodeIdsSinkImpl;
 

@@ -1,6 +1,6 @@
 package it.olegna.routing.osmosis.sinks;
 
-import it.olegan.routing.exception.GraphCreatorException;
+import it.olegna.routing.exception.GraphCreatorException;
 import it.olegna.routing.graph.relations.RelTypes;
 import it.olegna.routing.osm.util.IConstants;
 import it.olegna.routing.osm.util.OSMElementsUtil;
