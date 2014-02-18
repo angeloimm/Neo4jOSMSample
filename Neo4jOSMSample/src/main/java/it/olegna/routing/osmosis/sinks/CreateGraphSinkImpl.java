@@ -154,8 +154,8 @@ public class CreateGraphSinkImpl implements Sink {
 			graphDb = gdbb.newGraphDatabase();
 			tx = graphDb.beginTx();
 			Schema dbSchema = graphDb.schema();
-			dbSchema.indexFor(mainNodeLabel).on(IConstants.X_COORDINATE).create();
-			dbSchema.indexFor(mainNodeLabel).on(IConstants.Y_COORDINATE).create();
+			dbSchema.indexFor(mainNodeLabel).on(IConstants.LATITUDE_PROPERTY).create();
+			dbSchema.indexFor(mainNodeLabel).on(IConstants.LONGITUDE_PROPERTY).create();
 			dbSchema.indexFor(mainNodeLabel).on("giunzioneDbId").create();
 			IndexManager im = graphDb.index();
 			this.indiceElementoStradaleDbId = im.forRelationships("ELEMENTO_STRADALE_DB_ID", MapUtil.stringMap("type", "exact"));
@@ -180,7 +180,7 @@ public class CreateGraphSinkImpl implements Sink {
 			}
 		}
 		SpatialDatabaseService sdb = new SpatialDatabaseService(graphDb);
-		mainPointsLayer = sdb.createSimplePointLayer(IConstants.MAIN_POINTS_LAYER_NAME, IConstants.X_COORDINATE, IConstants.Y_COORDINATE);
+		mainPointsLayer = sdb.createSimplePointLayer(IConstants.MAIN_POINTS_LAYER_NAME, IConstants.LATITUDE_PROPERTY, IConstants.LONGITUDE_PROPERTY);
 	}
 	@Override
 	public void complete() {
@@ -333,7 +333,7 @@ public class CreateGraphSinkImpl implements Sink {
 
 	private double getDistanzaInMetri(org.neo4j.graphdb.Node startNode, org.neo4j.graphdb.Node endNode) {
 
-		double distance = DefaultEllipsoid.WGS84.orthodromicDistance((Double) startNode.getProperty(IConstants.Y_COORDINATE), (Double) startNode.getProperty(IConstants.X_COORDINATE), (Double) endNode.getProperty(IConstants.Y_COORDINATE), (Double) endNode.getProperty(IConstants.X_COORDINATE));
+		double distance = DefaultEllipsoid.WGS84.orthodromicDistance((Double) startNode.getProperty(IConstants.LONGITUDE_PROPERTY), (Double) startNode.getProperty(IConstants.LATITUDE_PROPERTY), (Double) endNode.getProperty(IConstants.LONGITUDE_PROPERTY), (Double) endNode.getProperty(IConstants.LATITUDE_PROPERTY));
 		return Precision.round(distance, 3);
 	}
 
@@ -393,7 +393,7 @@ public class CreateGraphSinkImpl implements Sink {
 					GeometryFactory gf = new GeometryFactory();
 					for (int i = 0; i < size; i++) {
 
-						geoInfo[i] = new Coordinate( ((OsmNodeWrapper)(elements[i])).getX(), ((OsmNodeWrapper)(elements[i])).getY() );
+						geoInfo[i] = new Coordinate( ((OsmNodeWrapper)(elements[i])).getLongitude(), ((OsmNodeWrapper)(elements[i])).getLatitude() );
 					}
 					if( geometryInfo.size() > 1 ){
 
@@ -410,7 +410,7 @@ public class CreateGraphSinkImpl implements Sink {
 						logger.debug("Strada con ID osm "+wayId+" numero di punti che compongono la strada: "+(geometryInfo != null ? geometryInfo.size() : 0)+". Non conservo nessuna informazione sulla strada; aggiungo solo geometria al nodo");
 					}
 					Coordinate[] coords = new Coordinate[1];
-					coords[0] = new Coordinate((Double)startGraphNode.getProperty(IConstants.X_COORDINATE), (Double)startGraphNode.getProperty(IConstants.Y_COORDINATE));
+					coords[0] = new Coordinate((Double)startGraphNode.getProperty(IConstants.LATITUDE_PROPERTY), (Double)startGraphNode.getProperty(IConstants.LONGITUDE_PROPERTY));
 					Geometry geom = new Point( new CoordinateArraySequence(coords), new GeometryFactory());
 					addGeometryInfo( geom, startGraphNode );
 				}
@@ -463,13 +463,13 @@ public class CreateGraphSinkImpl implements Sink {
 			Transaction tx = graphDb.beginTx();
 			try {
 
-				double x = osmNodeWrapper.getX();
-				double y = osmNodeWrapper.getY();
+				double x = osmNodeWrapper.getLongitude();
+				double y = osmNodeWrapper.getLatitude();
 				long osmFileNodeId = osmNodeWrapper.getOsmNodeId();
 				// Se è nodo principale lo taggo come nodo principale
 				org.neo4j.graphdb.Node graphNode = graphDb.createNode(mainNodeLabel);
-				graphNode.setProperty(IConstants.X_COORDINATE, x);
-				graphNode.setProperty(IConstants.Y_COORDINATE, y);
+				graphNode.setProperty(IConstants.LATITUDE_PROPERTY, y);
+				graphNode.setProperty(IConstants.LONGITUDE_PROPERTY, x);
 				graphNode.setProperty(IConstants.OSM_NODE_ID_PROPERTY, osmFileNodeId);
 				mainPointsLayer.add(graphNode);
 				graphMainNodes.put(osmFileNodeId, graphNode);

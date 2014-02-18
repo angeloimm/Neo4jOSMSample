@@ -34,13 +34,13 @@ public class ClosestPointsSearchTest {
 		try {
 			Iterable<Node> allNodes = graphMgr.getAllNodes();
 			for (Node node : allNodes) {
-				if(node.hasProperty(IConstants.X_COORDINATE) && node.hasProperty(IConstants.Y_COORDINATE)) 
-					logger.info("Node ID: "+node.getId()+" X: "+node.getProperty(IConstants.X_COORDINATE)+" Y: "+node.getProperty(IConstants.Y_COORDINATE)+" id OSM: "+node.getProperty(IConstants.OSM_NODE_ID_PROPERTY));
+				if(node.hasProperty(IConstants.LATITUDE_PROPERTY) && node.hasProperty(IConstants.LONGITUDE_PROPERTY)) 
+					logger.info("Node ID: "+node.getId()+" X: "+node.getProperty(IConstants.LATITUDE_PROPERTY)+" Y: "+node.getProperty(IConstants.LONGITUDE_PROPERTY)+" id OSM: "+node.getProperty(IConstants.OSM_NODE_ID_PROPERTY));
 				else
 					logger.info("Node ID: "+node.getId()+" no X and Y");
 			}
-//			Coordinate coord = new Coordinate(9.18891398507115, 45.4653788);
-			Coordinate coord = new Coordinate(9.1892546, 45.465609);
+			Coordinate coord = new Coordinate(45.4653788, 9.18891398507115);
+//			Coordinate coord = new Coordinate(9.1892546, 45.465609);
 			List<SpatialDatabaseRecord> records = graphMgr.getClosestNode(coord);
 			if( records != null && !records.isEmpty() ){
 

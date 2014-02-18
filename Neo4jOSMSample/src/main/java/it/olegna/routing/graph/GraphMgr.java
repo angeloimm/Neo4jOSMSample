@@ -10,6 +10,7 @@ import org.apache.commons.math3.analysis.function.Divide;
 import org.neo4j.gis.spatial.SimplePointLayer;
 import org.neo4j.gis.spatial.SpatialDatabaseRecord;
 import org.neo4j.gis.spatial.SpatialDatabaseService;
+import org.neo4j.gis.spatial.pipes.GeoPipeFlow;
 import org.neo4j.gis.spatial.pipes.GeoPipeline;
 import org.neo4j.graphdb.GraphDatabaseService;
 import org.neo4j.graphdb.Node;
@@ -163,7 +164,15 @@ public class GraphMgr {
 			logger.info("Searching closest point for the following coordinates: "+coord+" x: "+coord.x+" y: "+coord.y);
 			StopWatch sw = new StopWatch();
 			sw.start();
-			List<SpatialDatabaseRecord> results = GeoPipeline.startNearestNeighborLatLonSearch(el, coord, 1).toSpatialDatabaseRecordList();
+//			List<GeoPipeFlow> flows = el.findClosestPointsTo(coord, distKm);
+//			for (GeoPipeFlow geoPipeFlow : flows) {
+//				List<SpatialDatabaseRecord> resultssss = geoPipeFlow.getRecords();
+//				for (SpatialDatabaseRecord spatialDatabaseRecord : resultssss) {
+//					
+//					logger.info("Node id: "+spatialDatabaseRecord.getGeomNode().getId()+" X "+spatialDatabaseRecord.getGeomNode().getProperty(IConstants.LATITUDE_PROPERTY)+" Y "+spatialDatabaseRecord.getGeomNode().getProperty(IConstants.LONGITUDE_PROPERTY)+" OSM ID "+spatialDatabaseRecord.getGeomNode().getProperty(IConstants.OSM_NODE_ID_PROPERTY));
+//				}
+//			}
+			List<SpatialDatabaseRecord> results = GeoPipeline.startNearestNeighborLatLonSearch(el, coord, distKm).toSpatialDatabaseRecordList();
 			sw.stop();
 			long pointsNumber = results != null ? results.isEmpty() ? 0 : results.size() : 0;
 			if (logger.isInfoEnabled()) {

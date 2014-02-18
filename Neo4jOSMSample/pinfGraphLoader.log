@@ -1,31 +1,29 @@
-2014-02-18 13:29:55,203 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from class path resource [application-context.xml]
-2014-02-18 13:29:55,669 INFO  [org.springframework.context.support.GenericApplicationContext] Refreshing org.springframework.context.support.GenericApplicationContext@c2f09e: startup date [Tue Feb 18 13:29:55 CET 2014]; root of context hierarchy
-2014-02-18 13:29:55,764 INFO  [org.springframework.context.support.PropertySourcesPlaceholderConfigurer] Loading properties file from class path resource [configuration.properties]
-2014-02-18 13:29:59,464 INFO  [it.olegna.routing.graph.GraphMgr] Inizializzazione Neo4J completata in 3595 millisecondi.
-2014-02-18 13:29:59,490 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 0 no X and Y
-2014-02-18 13:29:59,490 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 1 no X and Y
-2014-02-18 13:29:59,490 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 2 no X and Y
-2014-02-18 13:29:59,491 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 3 no X and Y
-2014-02-18 13:29:59,491 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 4 X: 9.1892546 Y: 45.465609 id OSM: 314984571
-2014-02-18 13:29:59,492 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 5 X: 9.1885366 Y: 45.4656146 id OSM: 251293096
-2014-02-18 13:29:59,492 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 6 X: 9.1890988 Y: 45.4656102 id OSM: 973632493
-2014-02-18 13:29:59,492 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 7 X: 9.1885365 Y: 45.4656817 id OSM: 973632516
-2014-02-18 13:29:59,493 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 8 X: 9.1885409 Y: 45.4651429 id OSM: 249159397
-2014-02-18 13:29:59,493 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 9 X: 9.1893203 Y: 45.465609 id OSM: 206143856
-2014-02-18 13:29:59,494 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 10 X: 9.1892536 Y: 45.4651406 id OSM: 249156831
-2014-02-18 13:29:59,494 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 11 X: 9.1889408 Y: 45.466517 id OSM: 1584826074
-2014-02-18 13:29:59,495 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 12 X: 9.1890074 Y: 45.4665899 id OSM: 1584826079
-2014-02-18 13:29:59,495 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 13 X: 9.1885523 Y: 45.4660871 id OSM: 1584826161
-2014-02-18 13:29:59,495 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 14 X: 9.1892538 Y: 45.4649305 id OSM: 249159341
-2014-02-18 13:29:59,496 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 15 X: 9.1885552 Y: 45.4667721 id OSM: 680094621
-2014-02-18 13:29:59,496 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 16 X: 9.188336 Y: 45.4658189 id OSM: 1584826080
-2014-02-18 13:29:59,497 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 17 X: 9.1885504 Y: 45.464674 id OSM: 419123693
-2014-02-18 13:29:59,497 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 18 X: 9.1906971 Y: 45.4656139 id OSM: 951637066
-2014-02-18 13:29:59,497 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 19 X: 9.1894087 Y: 45.4669512 id OSM: 251289421
-2014-02-18 13:29:59,498 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 20 X: 9.1882274 Y: 45.465695 id OSM: 1584826165
-2014-02-18 13:30:00,007 INFO  [it.olegna.routing.graph.GraphMgr] Searching closest point for the following coordinates: (9.1892546, 45.465609, NaN) x: 9.1892546 y: 45.465609
-2014-02-18 13:30:00,133 INFO  [it.olegna.routing.graph.GraphMgr] Trovati 2 punti in 126 millisecondi
-2014-02-18 13:30:00,133 INFO  [it.olegna.test.ClosestPointsSearchTest] ID: 9
-2014-02-18 13:30:00,133 INFO  [it.olegna.test.ClosestPointsSearchTest] ID: 4
-2014-02-18 13:30:00,156 INFO  [org.springframework.context.support.GenericApplicationContext] Closing org.springframework.context.support.GenericApplicationContext@c2f09e: startup date [Tue Feb 18 13:29:55 CET 2014]; root of context hierarchy
-2014-02-18 13:30:21,250 INFO  [it.olegna.routing.graph.GraphMgr] Shutdown Neo4J completato in 21055 millisecondi.
+2014-02-18 16:32:38,264 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from class path resource [application-context.xml]
+2014-02-18 16:32:38,673 INFO  [org.springframework.context.support.GenericApplicationContext] Refreshing org.springframework.context.support.GenericApplicationContext@a4480d: startup date [Tue Feb 18 16:32:38 CET 2014]; root of context hierarchy
+2014-02-18 16:32:38,778 INFO  [org.springframework.context.support.PropertySourcesPlaceholderConfigurer] Loading properties file from class path resource [configuration.properties]
+2014-02-18 16:32:42,077 INFO  [it.olegna.routing.graph.GraphMgr] Inizializzazione Neo4J completata in 3206 millisecondi.
+2014-02-18 16:32:42,097 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 0 no X and Y
+2014-02-18 16:32:42,097 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 1 no X and Y
+2014-02-18 16:32:42,097 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 2 no X and Y
+2014-02-18 16:32:42,097 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 3 no X and Y
+2014-02-18 16:32:42,098 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 4 X: 45.465609 Y: 9.1892546 id OSM: 314984571
+2014-02-18 16:32:42,098 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 5 X: 45.4656146 Y: 9.1885366 id OSM: 251293096
+2014-02-18 16:32:42,098 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 6 X: 45.4656102 Y: 9.1890988 id OSM: 973632493
+2014-02-18 16:32:42,098 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 7 X: 45.4656817 Y: 9.1885365 id OSM: 973632516
+2014-02-18 16:32:42,099 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 8 X: 45.4651429 Y: 9.1885409 id OSM: 249159397
+2014-02-18 16:32:42,099 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 9 X: 45.465609 Y: 9.1893203 id OSM: 206143856
+2014-02-18 16:32:42,099 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 10 X: 45.4651406 Y: 9.1892536 id OSM: 249156831
+2014-02-18 16:32:42,100 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 11 X: 45.466517 Y: 9.1889408 id OSM: 1584826074
+2014-02-18 16:32:42,100 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 12 X: 45.4665899 Y: 9.1890074 id OSM: 1584826079
+2014-02-18 16:32:42,100 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 13 X: 45.4660871 Y: 9.1885523 id OSM: 1584826161
+2014-02-18 16:32:42,101 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 14 X: 45.4649305 Y: 9.1892538 id OSM: 249159341
+2014-02-18 16:32:42,101 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 15 X: 45.4667721 Y: 9.1885552 id OSM: 680094621
+2014-02-18 16:32:42,101 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 16 X: 45.4658189 Y: 9.188336 id OSM: 1584826080
+2014-02-18 16:32:42,101 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 17 X: 45.464674 Y: 9.1885504 id OSM: 419123693
+2014-02-18 16:32:42,102 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 18 X: 45.4656139 Y: 9.1906971 id OSM: 951637066
+2014-02-18 16:32:42,102 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 19 X: 45.4669512 Y: 9.1894087 id OSM: 251289421
+2014-02-18 16:32:42,102 INFO  [it.olegna.test.ClosestPointsSearchTest] Node ID: 20 X: 45.465695 Y: 9.1882274 id OSM: 1584826165
+2014-02-18 16:32:42,103 INFO  [it.olegna.routing.graph.GraphMgr] Searching closest point for the following coordinates: (45.4653788, 9.18891398507115, NaN) x: 45.4653788 y: 9.18891398507115
+2014-02-18 16:32:42,187 INFO  [it.olegna.routing.graph.GraphMgr] Trovati 0 punti in 84 millisecondi
+2014-02-18 16:32:42,201 INFO  [org.springframework.context.support.GenericApplicationContext] Closing org.springframework.context.support.GenericApplicationContext@a4480d: startup date [Tue Feb 18 16:32:38 CET 2014]; root of context hierarchy
+2014-02-18 16:33:03,527 INFO  [it.olegna.routing.graph.GraphMgr] Shutdown Neo4J completato in 21306 millisecondi.

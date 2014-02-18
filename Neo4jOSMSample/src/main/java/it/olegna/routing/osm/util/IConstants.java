@@ -15,11 +15,11 @@ public interface IConstants {
 	/**
 	 * Il nome della proprietà rappresentante la coordinata x
 	 */
-	public static final String X_COORDINATE = "x";
+	public static final String LATITUDE_PROPERTY = "y";
 	/**
 	 * Il nome della proprietà rappresentante la coordinata y
 	 */
-	public static final String Y_COORDINATE = "y";
+	public static final String LONGITUDE_PROPERTY = "x";
 
 	public static final int DRITTO = 1;
 	public static final int GIRARE_LEGGERMENTE_DESTRA = 2;
