@@ -30,15 +30,6 @@ import com.carrotsearch.hppc.LongSet;
 import com.vividsolutions.jts.geom.Coordinate;
 import com.vividsolutions.jts.geom.GeometryFactory;
 import com.vividsolutions.jts.geom.LineString;
-
-/**
- * Classe che si preoccupa di leggere il file OSM e di salvare gli ID dei nodi
- * da creare Sul grafo non viene effettuata nessuna operazione; si individuano
- * solo i nodi da creare
- * 
- * @author Angelo Immediata
- * 
- */
 public class PrepareNodeIdsSinkImpl implements Sink {
 
 	private LongLongOpenHashMap nodesMap;
